@@ -795,102 +795,102 @@
         /////////////////////////////////////////////////
 
         //contact form processing
-        $('form.contact-form').on('submit', function (e) {
-            e.preventDefault();
-            var $form = $(this);
-            $($form).find('.contact-form-respond').remove();
+        // $('form.contact-form').on('submit', function (e) {
+        //     e.preventDefault();
+        //     var $form = $(this);
+        //     $($form).find('.contact-form-respond').remove();
 
-            //checking on empty values
-            $($form).find('[aria-required="true"], [required]').each(function (index) {
-                var $thisRequired = $(this);
-                if (!$thisRequired.val().length) {
-                    $thisRequired
-                        .addClass('invalid')
-                        .on('focus', function () {
-                            $thisRequired
-                                .removeClass('invalid');
-                        });
-                }
-            });
-            //if one of form fields is empty - exit
-            if ($form.find('[aria-required="true"], [required]').hasClass('invalid')) {
-                return;
-            }
+        //     //checking on empty values
+        //     $($form).find('[aria-required="true"], [required]').each(function (index) {
+        //         var $thisRequired = $(this);
+        //         if (!$thisRequired.val().length) {
+        //             $thisRequired
+        //                 .addClass('invalid')
+        //                 .on('focus', function () {
+        //                     $thisRequired
+        //                         .removeClass('invalid');
+        //                 });
+        //         }
+        //     });
+        //     //if one of form fields is empty - exit
+        //     if ($form.find('[aria-required="true"], [required]').hasClass('invalid')) {
+        //         return;
+        //     }
 
-            //sending form data to PHP server if fields are not empty
-            var request = $form.serialize();
-            var ajax = jQuery.post("contact-form.php", request)
-                .done(function (data) {
-                    $($form).find('[type="submit"]').attr('disabled', false).parent().append('<div class="contact-form-respond color-main mt-20">' + data + '</div>');
-                    //cleaning form
-                    var $formErrors = $form.find('.form-errors');
-                    if (!$formErrors.length) {
-                        $form[0].reset();
-                    }
-                })
-                .fail(function (data) {
-                    $($form).find('[type="submit"]').attr('disabled', false).blur().parent().append('<div class="contact-form-respond color-main mt-20">Mail cannot be sent. You need PHP server to send mail.</div>');
-                })
-        });
+        //     //sending form data to PHP server if fields are not empty
+        //     var request = $form.serialize();
+        //     var ajax = jQuery.post("contact-form.php", request)
+        //         .done(function (data) {
+        //             $($form).find('[type="submit"]').attr('disabled', false).parent().append('<div class="contact-form-respond color-main mt-20">' + data + '</div>');
+        //             //cleaning form
+        //             var $formErrors = $form.find('.form-errors');
+        //             if (!$formErrors.length) {
+        //                 $form[0].reset();
+        //             }
+        //         })
+        //         .fail(function (data) {
+        //             $($form).find('[type="submit"]').attr('disabled', false).blur().parent().append('<div class="contact-form-respond color-main mt-20">Mail cannot be sent. You need PHP server to send mail.</div>');
+        //         })
+        // });
 
 
-        //search modal
-        $(".search_modal_button").on('click', function (e) {
-            e.preventDefault();
-            $('#search_modal').modal('show').find('input').first().focus();
-        });
-        //search form processing - not need in WP
-        $('form.searchform, form.search-form').on('submit', function (e) {
+        // //search modal
+        // $(".search_modal_button").on('click', function (e) {
+        //     e.preventDefault();
+        //     $('#search_modal').modal('show').find('input').first().focus();
+        // });
+        // //search form processing - not need in WP
+        // $('form.searchform, form.search-form').on('submit', function (e) {
 
-            e.preventDefault();
-            var $form = $(this);
-            var $searchModal = $('#search_modal');
-            $searchModal.find('div.searchform-respond').remove();
+        //     e.preventDefault();
+        //     var $form = $(this);
+        //     var $searchModal = $('#search_modal');
+        //     $searchModal.find('div.searchform-respond').remove();
 
-            //checking on empty values
-            $($form).find('[type="text"], [type="search"]').each(function (index) {
-                var $thisField = $(this);
-                if (!$thisField.val().length) {
-                    $thisField
-                        .addClass('invalid')
-                        .on('focus', function () {
-                            $thisField.removeClass('invalid')
-                        });
-                }
-            });
-            //if one of form fields is empty - exit
-            if ($form.find('[type="text"]').hasClass('invalid')) {
-                return;
-            }
+        //     //checking on empty values
+        //     $($form).find('[type="text"], [type="search"]').each(function (index) {
+        //         var $thisField = $(this);
+        //         if (!$thisField.val().length) {
+        //             $thisField
+        //                 .addClass('invalid')
+        //                 .on('focus', function () {
+        //                     $thisField.removeClass('invalid')
+        //                 });
+        //         }
+        //     });
+        //     //if one of form fields is empty - exit
+        //     if ($form.find('[type="text"]').hasClass('invalid')) {
+        //         return;
+        //     }
 
-            $searchModal.modal('show');
-            //sending form data to PHP server if fields are not empty
-            var request = $form.serialize();
-            var ajax = jQuery.post("search.php", request)
-                .done(function (data) {
-                    $searchModal.append('<div class="searchform-respond">' + data + '</div>');
-                })
-                .fail(function (data) {
-                    $searchModal.append('<div class="searchform-respond">Search cannot be done. You need PHP server to search.</div>');
+        //     $searchModal.modal('show');
+        //     //sending form data to PHP server if fields are not empty
+        //     var request = $form.serialize();
+        //     var ajax = jQuery.post("search.php", request)
+        //         .done(function (data) {
+        //             $searchModal.append('<div class="searchform-respond">' + data + '</div>');
+        //         })
+        //         .fail(function (data) {
+        //             $searchModal.append('<div class="searchform-respond">Search cannot be done. You need PHP server to search.</div>');
 
-                })
-        });
+        //         })
+        // });
 
-        //MailChimp subscribe form processing
-        $('.signup').on('submit', function (e) {
-            e.preventDefault();
-            var $form = $(this);
-            // update user interface
-            $form.find('.response').html('Adding email address...');
-            // Prepare query string and send AJAX request
-            jQuery.ajax({
-                url: 'mailchimp/store-address.php',
-                data: 'ajax=true&email=' + escape($form.find('.mailchimp_email').val()),
-                success: function (msg) {
-                    $form.find('.response').html(msg);
-                }
-            });
-        });
+        // //MailChimp subscribe form processing
+        // $('.signup').on('submit', function (e) {
+        //     e.preventDefault();
+        //     var $form = $(this);
+        //     // update user interface
+        //     $form.find('.response').html('Adding email address...');
+        //     // Prepare query string and send AJAX request
+        //     jQuery.ajax({
+        //         url: 'mailchimp/store-address.php',
+        //         data: 'ajax=true&email=' + escape($form.find('.mailchimp_email').val()),
+        //         success: function (msg) {
+        //             $form.find('.response').html(msg);
+        //         }
+        //     });
+        // });
 
         //twitter
         if ($().tweet) {

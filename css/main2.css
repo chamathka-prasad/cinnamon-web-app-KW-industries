@@ -1793,7 +1793,7 @@ p + .progress {
 }
 
 .owl-carousel .owl-dots .owl-dot {
-	*display: inline;
+	display: inline;
 	display: inline-block;
 	zoom: 1;
 }
@@ -2258,7 +2258,7 @@ html[xmlns] .slides {
 
 /* Direction Nav */
 .flex-direction-nav {
-	*height: 0;
+	height: 0;
 }
 
 .flex-direction-nav a {
@@ -2364,7 +2364,7 @@ html[xmlns] .slides {
 }
 
 .flex-control-nav li {
-	*display: inline;
+	display: inline;
 	display: inline-block;
 	padding: 0 14px;
 	text-align: center;
@@ -2726,7 +2726,7 @@ html[xmlns] .slides {
 .pswp__button,
 .pswp__button--arrow--left:before,
 .pswp__button--arrow--right:before {
-	background: url(../img/photoswipe/default-skin.png) 0 0 no-repeat;
+	/* background: url(../img/photoswipe/default-skin.png) 0 0 no-repeat; */
 	background-size: 264px 88px;
 	height: 44px;
 	width: 44px;
@@ -2737,7 +2737,7 @@ html[xmlns] .slides {
 	.pswp--svg .pswp__button,
 	.pswp--svg .pswp__button--arrow--left:before,
 	.pswp--svg .pswp__button--arrow--right:before {
-		background-image: url(../img/photoswipe/default-skin.svg);
+		/* background-image: url(../img/photoswipe/default-skin.svg); */
 	}
 
 	.pswp--svg .pswp__button--arrow--left,
@@ -22563,7 +22563,7 @@ a img.aligncenter {
 	}
 
 	.sf-menu li {
-		*white-space: normal;
+		white-space: normal;
 		white-space: nowrap;
 	}
 
@@ -22694,7 +22694,7 @@ a img.aligncenter {
 	.sf-menu > li .mega-menu,
 	.sf-menu li > ul {
 		/* allow long menu items to determine submenu width */
-		*width: 13.9em;
+		width: 13.9em;
 		background-color: #fff;
 		box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 		list-style: none;

@@ -101,17 +101,18 @@ html {
 }
 
 ::-moz-selection {
-	background-color: #07a763;
+	
+	/* background-color: #07a763; */
 	color: #fff;
 }
 
 ::selection {
-	background-color: #07a763;
+	/* background-color: #07a763; */
 	color: #fff;
 }
 
 ::-moz-selection {
-	background-color: #07a763;
+	/* background-color: #07a763; */
 	color: #fff;
 }
 
@@ -925,6 +926,8 @@ input[type=radio] {
 
 .has-error label,
 .has-error .help-block {
+
+
 	color: #07a763;
 }
 
@@ -1522,7 +1525,7 @@ td .media-body {
 }
 
 .embed-responsive:before {
-	background-color: #07322d;
+	/* background-color: #C6842C; */
 	bottom: 0;
 	content: "";
 	left: 0;
@@ -1793,7 +1796,7 @@ p + .progress {
 }
 
 .owl-carousel .owl-dots .owl-dot {
-	*display: inline;
+	display: inline;
 	display: inline-block;
 	zoom: 1;
 }
@@ -2258,7 +2261,7 @@ html[xmlns] .slides {
 
 /* Direction Nav */
 .flex-direction-nav {
-	*height: 0;
+	height: 0;
 }
 
 .flex-direction-nav a {
@@ -2364,7 +2367,7 @@ html[xmlns] .slides {
 }
 
 .flex-control-nav li {
-	*display: inline;
+	display: inline;
 	display: inline-block;
 	padding: 0 14px;
 	text-align: center;
@@ -2460,6 +2463,7 @@ html[xmlns] .slides {
 
 .flex-custom-nav .flex-custom-link:hover {
 	color: #07a763;
+
 }
 
 .page_slider:hover .flex-custom-nav {
@@ -9364,11 +9368,12 @@ img {
 
 .s-overlay.cs.cs3:before {
 	background-color: #073220;
+	
 }
 
 .s-overlay.ds:before,
 .column-overlay.ds:before {
-	background-color: #07322d;
+	/* background-color: #C6842C; */
 	opacity: 0.9;
 }
 
@@ -10643,16 +10648,19 @@ body.boxed {
 
 /* dark background section - .ds.ms */
 .ds.ms {
-	background-color: #07322d;
+	/* background-color: #C6842C; */
+	
 }
 
 .ds.ms .ds.ms {
 	background-color: #083b35;
+	
 }
 
 /* dark section blue - .ds.bs */
 .ds.bs {
 	background-color: #2f3e47;
+
 }
 
 .ds a:not(.btn) {
@@ -10750,7 +10758,7 @@ body.boxed {
 
 .ds .muted-bg,
 .ds .hero-bg {
-	background-color: rgba(255, 255, 255, 0.05);
+	/* background-color: rgba(255, 255, 255, 0.05); */
 }
 
 .ds .bordered {
@@ -10912,7 +10920,7 @@ body.boxed {
 }
 
 .ds .color-icon.bg-icon {
-	background-color: rgba(255, 255, 255, 0.05);
+	/* background-color: rgba(255, 255, 255, 0.05); */
 }
 
 .ds .color-icon.bg-icon:hover {
@@ -11026,6 +11034,7 @@ body.boxed {
 .ds .widget_mailchimp .form-inline .btn {
 	background-color: transparent;
 	color: #07a763;
+	
 }
 
 .ds .widget_shopping_cart .cart_list,
@@ -11083,7 +11092,7 @@ body.boxed {
 }
 
 .ds .widget_calendar table {
-	background-color: rgba(255, 255, 255, 0.05);
+	/* background-color: rgba(255, 255, 255, 0.05); */
 	border-color: #7a998c;
 }
 
@@ -11111,7 +11120,7 @@ body.boxed {
 }
 
 .ds .ui-slider {
-	background-color: rgba(255, 255, 255, 0.05);
+	/* background-color: rgba(255, 255, 255, 0.05); */
 }
 
 .ds .ui-slider .ui-slider-handle {
@@ -11173,7 +11182,7 @@ body.boxed {
 
 .ds .panel-heading .panel-title > a.collapsed,
 .ds .vertical-tabs .nav > li > a {
-	background-color: rgba(255, 255, 255, 0.05);
+	/* background-color: rgba(255, 255, 255, 0.05); */
 	color: #fff;
 }
 
@@ -11870,7 +11879,9 @@ body.boxed {
 }
 
 .hero-bg {
-	background-color: #f5f5f5;
+
+	/* background-color: #f5f5f5; */
+	
 }
 
 .muted-bg {
@@ -11979,7 +11990,7 @@ body.boxed {
 }
 
 .bg-dark {
-	background-color: #07322d;
+	/* background-color: #C6842C; */
 }
 
 .bg-darkblue {
@@ -22563,7 +22574,7 @@ a img.aligncenter {
 	}
 
 	.sf-menu li {
-		*white-space: normal;
+		white-space: normal;
 		white-space: nowrap;
 	}
 
@@ -22694,7 +22705,7 @@ a img.aligncenter {
 	.sf-menu > li .mega-menu,
 	.sf-menu li > ul {
 		/* allow long menu items to determine submenu width */
-		*width: 13.9em;
+		width: 13.9em;
 		background-color: #fff;
 		box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 		list-style: none;
@@ -24419,6 +24430,7 @@ body.active-side-header.slide-right .page_header_side {
 	display: flex;
 	justify-content: flex-end;
 	padding: 0;
+	
 }
 
 .page_slider .flex-control-nav li a {
@@ -25187,7 +25199,7 @@ h4.entry-title {
 
 .post-adds {
 	align-items: center;
-	background-color: #f5f5f5;
+	/* background-color: #f5f5f5; */
 	display: flex;
 	line-height: 1;
 	margin-bottom: 30px;
@@ -26435,7 +26447,7 @@ img.absolute_image {
 }
 
 .post-type-archive-fw-team .vertical-item .item-media .media-links:before {
-	background-color: #07322d;
+	/* background-color: #C6842C; */
 	display: inline-block;
 	opacity: 0.9;
 	transition: all 0.3s ease-in-out;
