@@ -1102,19 +1102,19 @@
           <span class="toggle_menu"><span></span></span>
         </header>
 
-        <section class="page_title ds s-parallax s-overlay s-py-65">
-          <div class="s-blur"></div>
+        <section class="page_title ds s-parallax s-py-65" >
+        <div class="s-blur" ></div>
           <div class="container">
             <div class="row">
               <div class="col-md-12 text-center text-sm-left">
                 <h1>Products</h1>
                 <ol class="breadcrumb">
-                  <li class="breadcrumb-item">
-                    <a href="./">Home</a>
-                  </li>
-                  <li class="breadcrumb-item">
-                    <a href="#">Shop</a>
-                  </li>
+                <li class="breadcrumb-item">
+									<a href="../home/index.php">Home</a>
+								</li>
+								<li class="breadcrumb-item">
+									<a href="shop-left.php">Shop</a>
+								</li>
                   <li class="breadcrumb-item active">Products</li>
                 </ol>
               </div>
@@ -1123,7 +1123,12 @@
         </section>
 
 		<h6 class="special-heading sub-title" style="text-align: center; margin-top: 50px;"><span> Own Production</span></h6>
-		<h2 class="special-heading" style="text-align: center;">Our Products</h2>
+		<h2 class="special-heading" style="text-align: center;">Grades of Ceylon Cinnamon
+    </h2>
+    
+    <div style="text-align: center; margin-top: 40px;">
+    <img src="Cinnamon Grades together.jpg" alt="Cinnamon Grades" style="max-width: 100%; height: auto;">
+</div>
 
         <section
           class="ls s-py-xl-150 s-py-lg-130 s-py-md-90 s-py-60 c-gutter-30"
