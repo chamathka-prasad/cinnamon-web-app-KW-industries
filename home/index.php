@@ -1187,7 +1187,7 @@
 								<h3 class="item-title">ALBA</h3>
 							</div>
 							<p class="description">Highest and most expensive grade of true cinnamon.</p>
-							<button class="view-btn">View  </button>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a>  </button>
 						</div>
 						
 						
@@ -1207,7 +1207,7 @@
 								<h3 class="item-title">C5</h3>
 							</div>
 							<p class="description">High-grade cinnamon with a strong market presence</p>
-							<button class="view-btn">View</button>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button>
 						</div>
 						<div class="grid-item">
 							<!-- <h3 class="item-title">C4</h3> -->
@@ -1216,7 +1216,7 @@
 								<h3 class="item-title">C4</h3>
 							</div>
 							<p class="description"> Commercially popular, slightly thicker than C5. </p>
-							<button class="view-btn">View</button>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button>
 						</div>
 
 					</div>
@@ -1231,7 +1231,7 @@
 								<h3 class="item-title">H1</h3>
 							</div>
 							<p class="description">Medium-grade</p>
-							<button class="view-btn">View</button>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button>
 						</div>
 						<div class="grid-item">
 							
@@ -1240,7 +1240,7 @@
 								<h3 class="item-title">H2</h3>
 							</div>
 							<p class="description">Popular grade in bark form</p>
-							<button class="view-btn">View</button>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button>
 						</div>
 						<div class="grid-item">
 							
@@ -1249,7 +1249,7 @@
 								<h3 class="item-title">CINNAMON POWDER</h3>
 							</div>
 							<p class="description">Finely grounded cinnamon</p>
-							<button class="view-btn">View</button>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button>
 						</div>
 					</div>
 				</div>
