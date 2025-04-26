@@ -2,9 +2,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Array of image sources
     const images = [
-        '../home/assets/gal1.png',
-        '../home/assets/gal-2.png',
-        '../home/assets/gal-8.png'
+        '../home/assets/gal1.jpg',
+        '../home/assets/gal-2.jpg',
+        '../home/assets/gal-8.jpg'
         // '../home/assets/raw-cinnamon-sticks-background.webp',
         // '../home/assets/raw-cinnamon-sticks-background.webp'
     ];
