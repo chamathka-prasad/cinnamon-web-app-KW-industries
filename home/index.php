@@ -1295,7 +1295,7 @@
 				and more value-added cinnamon products.  </p>
 				<div class="mainproduct_name">
 					<div class="hr-container">
-						<div class="hr-line"></div>
+						<div class="hr-line"></div><br><br><br>
 						<img src="../images/gallery/cinnamon.png" alt="Cinnamon and Leaf" class="hr-image">
 						
 						<div class="hr-line"></div>
@@ -1335,18 +1335,9 @@
 							<!-- <p class="description">High-grade cinnamon with a strong market presence</p>
 							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button> -->
 						</div>
-						<div class="grid-item">
-							<!-- <h3 class="item-title">C4</h3> -->
-							<div class="card-label">C4 </div>
-							<div class="image-container">
-								<img src="../home/assets/c4.png" alt="Cinnamon and Leaf" >
-								<!-- <h3 class="item-title">C4</h3> -->
-							</div>
-							<!-- <p class="description"> Commercially popular, slightly thicker than C5. </p>
-							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button> -->
-						</div>
+						
 
-					</div>
+					</div><br><br>
 					<div class="center-row">
 						<div class="grid-item">
 							<div class="card-label">H1 </div>
@@ -1366,15 +1357,18 @@
 							<!-- <p class="description">Popular grade in bark form</p>
 							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button> -->
 						</div>
+
 						<div class="grid-item">
-							<div class="card-label"> CINNAMON POWDER</div>
+							<!-- <h3 class="item-title">C4</h3> -->
+							<div class="card-label">C4 </div>
 							<div class="image-container">
-								<img src="../home/assets/cinnamon-powder.jpg" alt="Cinnamon and Leaf" >
-								<!-- <h3 class="item-title">CINNAMON POWDER</h3> -->
+								<img src="../home/assets/c4.png" alt="Cinnamon and Leaf" >
+								<!-- <h3 class="item-title">C4</h3> -->
 							</div>
-							<!-- <p class="description">Finely grounded cinnamon</p>
+							<!-- <p class="description"> Commercially popular, slightly thicker than C5. </p>
 							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button> -->
 						</div>
+						
 					</div>
 				</div>
 				
