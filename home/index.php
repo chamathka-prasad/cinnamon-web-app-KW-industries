@@ -1100,6 +1100,131 @@
     			});
   			</script>
 
+<section class="ls section-portfolio s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-150 s-pb-lg-130 s-pb-md-90 s-pb-60 text-center text-sm-left">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+							<h6 class="special-heading sub-title text-center"><span>KW production</span></h6>
+							<h2 class="special-heading text-center" id="faq-title">Photo Gallery</h2>
+							<div class="divider-50 hidden-below-md"></div>
+							<div class="divider-30 hidden-above-md"></div>
+						</div>
+					</div>
+					<div class="row isotope-wrapper portfolio masonry-layout c-gutter-10 c-mb-10">
+						<div class="col-md-6 corporate">
+							<div class="vertical-item item-gallery content-absolute text-center ">
+								<div class="item-media">
+									<img src="../home/assets/gal1.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-1.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-md-6 entertainment innovations">
+							<div class="vertical-item item-gallery content-absolute text-center">
+								<div class="item-media">
+									<img src="../home/assets/gal-2.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-2.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="vertical-item item-gallery content-absolute text-center ">
+								<div class="item-media">
+									<img src="../home/assets/gal-3.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-3.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="vertical-item item-gallery content-absolute text-center ">
+								<div class="item-media">
+									<img src="../home/assets/gal-4.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-4.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="vertical-item item-gallery content-absolute text-center">
+								<div class="item-media">
+									<img src="../home/assets/gal-5.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-5.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 entertainment innovations">
+							<div class="vertical-item item-gallery content-absolute text-center">
+								<div class="item-media">
+									<img src="../home/assets/gal-6.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-6.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-md-3 ">
+							<div class="vertical-item item-gallery content-absolute text-center ">
+								<div class="item-media">
+									<img src="../home/assets/gal-7.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-7.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 entertainment innovations">
+							<div class="vertical-item item-gallery content-absolute text-center">
+								<div class="item-media">
+									<img src="../home/assets/gal-8.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-8.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						
+						
+					</div>
+				</div>
+			</section>
+
+
 			<div id="process-unique" class="s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-145 s-pb-lg-125 s-pb-md-85 s-pb-55">
 				<div class="col-lg-6" id="feature-center" >
 					
@@ -1163,7 +1288,7 @@
 		
 			</section>
 	
-			<br>
+			<br><br><br>
 			<div class="container-grade">
 				<h1>Cinnamon Grades</h1>
 				<p> We export 5 types of Cinnamon grades and  we are planning to expand our product range with bottled cinnamon items 
@@ -1181,75 +1306,74 @@
 
 						
 						<div class="grid-item">
-							
+							<div class="card-label">ALBA</div>
 							<div class="image-container">
 								<img src="../home/assets/alba.png" alt="Cinnamon and Leaf" >
-								<h3 class="item-title">ALBA</h3>
+								<!-- <h3 class="item-title">ALBA</h3> -->
 							</div>
-							<p class="description">Highest and most expensive grade of true cinnamon.</p>
-							<button class="view-btn"><a href ="../product/shop-left.php">View</a>  </button>
+							<!-- <p class="description">Highest and most expensive grade of true cinnamon.</p>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a>  </button> -->
 						</div>
 						
 						
 						<div class="grid-item">
-							
+							<div class="card-label">C5 SPECIAL</div>
 							<div class="image-container">
 								<img src="../home/assets/C5 special.png" alt="Cinnamon and Leaf" >
-								<h3 class="item-title">C5 SPECIAL</h3>
+								<!-- <h3 class="item-title">C5 SPECIAL</h3> -->
 							</div>
-							<p class="description">Third highest grade of cinnamon available in Sri Lanka</p>
-							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button>
+							<!-- <p class="description">Third highest grade of cinnamon available in Sri Lanka</p>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button> -->
 						</div>
 						<div class="grid-item">
 							<!-- <h3 class="item-title">C5</h3> -->
+							<div class="card-label">C5 </div>
 							<div class="image-container">
 								<img src="../home/assets/c5.png" alt="Cinnamon and Leaf" >
-								<h3 class="item-title">C5</h3>
+								<!-- <h3 class="item-title">C5</h3> -->
 							</div>
-							<p class="description">High-grade cinnamon with a strong market presence</p>
-							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button>
+							<!-- <p class="description">High-grade cinnamon with a strong market presence</p>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button> -->
 						</div>
 						<div class="grid-item">
 							<!-- <h3 class="item-title">C4</h3> -->
+							<div class="card-label">C4 </div>
 							<div class="image-container">
 								<img src="../home/assets/c4.png" alt="Cinnamon and Leaf" >
-								<h3 class="item-title">C4</h3>
+								<!-- <h3 class="item-title">C4</h3> -->
 							</div>
-							<p class="description"> Commercially popular, slightly thicker than C5. </p>
-							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button>
+							<!-- <p class="description"> Commercially popular, slightly thicker than C5. </p>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button> -->
 						</div>
 
 					</div>
-
-					
-
 					<div class="center-row">
 						<div class="grid-item">
-							
+							<div class="card-label">H1 </div>
 							<div class="image-container">
 								<img src="../home/assets/h1.png" alt="Cinnamon and Leaf" >
-								<h3 class="item-title">H1</h3>
+								<!-- <h3 class="item-title">H1</h3> -->
 							</div>
-							<p class="description">Medium-grade</p>
-							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button>
+							<!-- <p class="description">Medium-grade</p> -->
+							<!-- <button class="view-btn"><a href ="../product/shop-left.php">View</a></buttovn> -->
 						</div>
 						<div class="grid-item">
-							
+							<div class="card-label">H2 </div>
 							<div class="image-container">
 								<img src="../home/assets/h2.png" alt="Cinnamon and Leaf" >
-								<h3 class="item-title">H2</h3>
+								<!-- <h3 class="item-title">H2</h3> -->
 							</div>
-							<p class="description">Popular grade in bark form</p>
-							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button>
+							<!-- <p class="description">Popular grade in bark form</p>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button> -->
 						</div>
 						<div class="grid-item">
-							
+							<div class="card-label"> CINNAMON POWDER</div>
 							<div class="image-container">
 								<img src="../home/assets/cinnamon-powder.jpg" alt="Cinnamon and Leaf" >
-								<h3 class="item-title">CINNAMON POWDER</h3>
+								<!-- <h3 class="item-title">CINNAMON POWDER</h3> -->
 							</div>
-							<p class="description">Finely grounded cinnamon</p>
-							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button>
+							<!-- <p class="description">Finely grounded cinnamon</p>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button> -->
 						</div>
 					</div>
 				</div>
@@ -1452,7 +1576,7 @@
 				</div>
 			</section>
 
-			<section class="ls section-portfolio s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-150 s-pb-lg-130 s-pb-md-90 s-pb-60 text-center text-sm-left">
+			<!-- <section class="ls section-portfolio s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-150 s-pb-lg-130 s-pb-md-90 s-pb-60 text-center text-sm-left">
 				<div class="container">
 					<div class="row">
 						<div class="col-12">
@@ -1574,7 +1698,7 @@
 						
 					</div>
 				</div>
-			</section>
+			</section> -->
 
 		
 

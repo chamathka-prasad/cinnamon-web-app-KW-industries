@@ -686,19 +686,37 @@ h1, h2, h3, h4, h5, h6, .font-montserrat {
 
 .grid-container-1 {
 
-   /* background-image: url("../home/assets/world\ mAP.jpg"); */
+   background-image: url("../home/assets/world\ mAP.jpg");
    background-size: 400% 400%;
    animation: gradientAnimation 8s ease infinite;
    background-repeat: no-repeat;
    background-size: cover;      
    background-position: center;
-   background-color: #e0edc8;
+   /* background-color: #e0edc8; */
    
 }
 
 /* .grid-container-1 img{
   opacity: 0.1;
 } */
+
+.card-label {
+  position: absolute;
+  top: -29px;
+  left: 50%;
+  /* width: 50px; */
+  transform: translateX(-50%);
+  background: #401f00; 
+  color: #fff;
+  padding: 10px 60px;
+  border-radius: 4px 4px 0 0;
+  font-size:small;
+  height: 20%;
+  font-weight: bold;
+  /* box-shadow:  rgba(0,0,0,0.0); */
+  /* box-shadow:  4px 16px 0 rgba(0,0,0,0.12), 0 1.5px 6px 0 rgba(0,0,0,0.08); */
+  letter-spacing: 1px;
+}
 
 
 .grid-container{
@@ -731,7 +749,7 @@ h1, h2, h3, h4, h5, h6, .font-montserrat {
 
 .grid-item {
   width: 100%;
-  max-width: 300px;
+  max-width: 400px;
   text-align: center;
   position: relative;
   transition: all 0.3s ease;
@@ -739,6 +757,8 @@ h1, h2, h3, h4, h5, h6, .font-montserrat {
   text-align: center; 
   font-size: 18px; 
   font-weight:500; 
+  /* box-shadow: #000000; */
+ 
   
 }
 
@@ -805,11 +825,23 @@ letter-spacing: 1px;
   
 }
 
+.image-container{
+  display: inline-block;
+  background: #fff;
+  padding: 24px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.25); /* Black shadow on all sides */
+  border-radius: 6px;
+ }
+
 .image-container img{
-  border-radius: 500%;
-  width: 200%;
-  height: 250px;
-  box-shadow: 0 4px 16px 0 rgba(0,0,0,0.12), 0 1.5px 6px 0 rgba(0,0,0,0.08)
+  /* border-radius: 500%; */
+  width: 2500%;
+  height: 400px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.25);
+  
+  
+
+  /* box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.12), 0 1.5px 6px 0 rgba(0, 0, 0, 0.08) */
 }
 
 
@@ -970,7 +1002,9 @@ letter-spacing: 1px;
 
 .container-grade {
   /* max-width: 1100px; */
+  
   margin: 0 auto;
+  
   
   
 }
