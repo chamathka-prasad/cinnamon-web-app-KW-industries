@@ -25,7 +25,8 @@
     <link rel="stylesheet" href="../css/font-awesome5.css" />
     <link rel="stylesheet" href="../css/fontello.css" />
     <link rel="stylesheet" href="main.css" class="color-switcher-link" />
-    <link rel="stylesheet" href="shop.css" class="color-switcher-link" />
+    <link rel="stylesheet" href="sty.css" />
+    <!-- <link rel="stylesheet" href="shop.css" class="color-switcher-link" /> -->
 	
     <script src="../js/vendor/modernizr-2.6.2.min.js"></script>
     <script src="search.js"></script>
@@ -1113,7 +1114,7 @@
 									<a href="../home/index.php">Home</a>
 								</li>
 								<li class="breadcrumb-item">
-									<a href="shop-left.php">Shop</a>
+									<a href="index.php">Shop</a>
 								</li>
                   <li class="breadcrumb-item active">Products</li>
                 </ol>
@@ -1122,362 +1123,192 @@
           </div>
         </section>
 
-		<h6 class="special-heading sub-title" style="text-align: center; margin-top: 50px;"><span> Own Production</span></h6>
-		<h2 class="special-heading" style="text-align: center;">Grades of Ceylon Cinnamon
-    </h2>
+        <div class="my-div mb-5"></div>
+
+<h6 class="special-heading sub-title" style="text-align: center; margin-top: 50px;"><span> Own Production</span></h6>
+<h3 class="special-heading" style="text-align: center;">Panagolish True Cinnamon</h2>
+<div class="my-div mb-5"></div>
+
+        <div class="text-center bg-light p-4 mb-3 rounded-3 shadow-sm" style="font-family: 'Poppins', sans-serif;">
+  <p class="mb-0 fs-3 text-dark">
+    At KW Industries, we take pride in offering a premium selection of cinnamon products, with our Panagolish True Cinnamon Sticks being the first product we introduce to the market. Sourced directly from the heart of Sri Lanka, these cinnamon bales are a representation of quality and authenticity. Carefully handpicked and expertly packed, each bale is made of pure Ceylon cinnamon, ensuring unmatched natural purity and flavor.
+  </p>
+</div>
+<div class="my-div mb-5"></div>
+
+		<h3 class="special-heading" style="text-align: center;">Grades of Ceylon Cinnamon</h2>
     
     <div style="text-align: center; margin-top: 40px;">
     <img src="Cinnamon Grades together.jpg" alt="Cinnamon Grades" style="max-width: 100%; height: auto;">
 </div>
 
-        <section
-          class="ls s-py-xl-150 s-py-lg-130 s-py-md-90 s-py-60 c-gutter-30"
-        >
-          <div class="container">
-            <div class="row">
-              <main class="col-lg-7 col-xl-9 order-lg-2">
-                <div class="columns-3">
-                  <div class="products-selection">
-                    <p class="woocommerce-result-count">
-                      Showing all 7 results
-                    </p>
-                    <form class="woocommerce-ordering" method="get">
-                      <select name="orderby" class="orderby">
-                        <option value="default" selected="selected">
-                          Default sorting
-                        </option>
-						<option value="name-asc">Sort by name: A to Z</option>
-                        <option value="name-desc">Sort by name: Z to A</option>
-						<option value="diameter-asc">Smallest to Largest</option>
-						<option value="diameter-desc">Largest to Smallest</option>
-                        
-                       
-                      </select>
-                    </form>
-                    <span class="toggle_view">
-                      View
-                      <a class="full" href="#"><i class="fas fa-bars"></i></a>
-                      <a class="grid active" href="#"
-                        ><i class="fas fa-th"></i
-                      ></a>
-                    </span>
-                  </div>
 
+
+<!-- FIRST PRODUCT SECTION: ALBA -->
+<section id="about" class="ls section-about s-pt-50 s-pb-0 text-center text-sm-center mt-2">
+
+    <div class="container">
+        <div class="row align-items-center">
+            <!-- Text Content Section -->
+            <div class="col-lg-6 text-lg-left text-center">
+                <h6 class="special-heading sub-title"><span>Panagolish True Cinnamon</span></h6>
+                <h3 class="special-heading">Highest Grade- ALBA</h3>
+                <div class="my-div mb-4"></div>
+                <p class="smallp" style="text-align:justify"  >ALBA is recognized as the highest and most expensive grade of true Ceylon cinnamon, standing out for its exceptional quality and refinement. It is crafted from ultra-thin quills with a maximum diameter of just 6 mm, making it one of the finest and most delicate varieties available. Its pale golden color, combined with an extremely thin and delicate texture, gives ALBA a luxurious appearance that complements its superior taste.</p>
+                <p class="longp"  style="text-align:justify">Known for its mild, sweet, and highly aromatic flavor profile, ALBA cinnamon is a prized ingredient in premium food and beverage products, luxury culinary creations, and traditional herbal medicines. It is regarded worldwide as the gold standard among all Ceylon cinnamon grades, offering unmatched quality for those who seek the very best.</p>
+            </div>
+
+            <!-- Image Section -->
+            <div class="col-lg-6 text-center">
+                <img src="1.png" alt="KW Industries" class="img-fluid" style="width: 600px;">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- SECOND PRODUCT SECTION: Image Left, Text Right -->
+<section class="ls section-about s-pt-0 s-pb-0 text-center text-sm-center">
+    <div class="container">
+        <div class="row align-items-center">
+            <!-- Image Section -->
+            <div class="col-lg-6 text-center">
+                <img src="3.png" alt="Product Image" class="img-fluid" style="width: 600px;">
+            </div>
+
+            <!-- Text Content Section -->
+            <div class="col-lg-6 text-lg-left text-center">
+                <h6 class="special-heading sub-title"><span>Panagolish True Cinnamon</span></h6>
+                <h3 class="special-heading">C5 Special Cinnamon</h3>
+                <div class="my-div mb-4"></div>
+
+                <p class="smallp" style="text-align:justify" >C5 Special is recognized as the third highest grade of true Ceylon cinnamon available in Sri Lanka, offering a fine balance between quality and accessibility. Crafted from quills slightly larger than Alba, with a typical diameter ranging from 7 to 9 mm, C5 Special features a beautiful light brown color and a rich, sweet aroma that is highly prized.</p>
+                <p class="longp" style="text-align:justify" >Its refined taste and fragrant profile make it a popular choice for high-end food industries, specialty teas, and luxury spice markets around the world. Striking a perfect harmony between superior quality and greater availability, C5 Special remains a preferred option for those seeking an exceptional yet accessible cinnamon experience.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- THIRD PRODUCT SECTION: Image Right, Text Left -->
+<section class="ls section-about s-pt-0 s-pb-0 text-center text-sm-center">
+    <div class="container">
+        <div class="row align-items-center">
+            <!-- Text Content Section -->
+            <div class="col-lg-6 text-lg-left text-center">
+                <h6 class="special-heading sub-title"><span>Panagolish True Cinnamon</span></h6>
+                <h3 class="special-heading">C5 Cinnamon</h3>
+                <div class="my-div mb-4"></div>
+
+                <p class="smallp" style="text-align:justify" >C5 is a high-grade cinnamon with a strong market presence, valued for its excellent price-to-quality ratio. With a diameter ranging from 10 to 12 mm, this cinnamon is larger than some other grades, offering a substantial size and rich flavor. Its deep yellow color adds to its unique appeal, distinguishing it from other varieties.</p>
+                <p class="longp" style="text-align:justify">Known for its sweet and highly aromatic taste, C5 cinnamon is widely used in food processing, spice blends, and exports, making it a popular choice in both domestic and international markets. Its balanced combination of quality and cost-effectiveness has earned it a solid reputation among cinnamon lovers and industry professionals alike.</p>
+            </div>
+
+            <!-- Image Section (Image on the right) -->
+            <div class="col-lg-6 text-center">
+                <img src="4.png" alt="Premium Gold Cinnamon" class="img-fluid" style="width: 600px;">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- FOURTH PRODUCT SECTION: Image Left, Text Right -->
+<section class="ls section-about s-pt-0 s-pb-0 text-center text-sm-center">
+    <div class="container">
+        <div class="row align-items-center">
+            <!-- Image Section -->
+            <div class="col-lg-6 text-center">
+                <img src="5.png" alt="Product Image" class="img-fluid" style="width: 600px;">
+            </div>
+
+            <!-- Text Content Section -->
+            <div class="col-lg-6 text-lg-left text-center">
+                <h6 class="special-heading sub-title"><span>Panagolish True Cinnamon</span></h6>
+                <h3 class="special-heading">C4 Cinnamon</h3>
+                <div class="my-div mb-4"></div>
+
+                <p class="smallp" style="text-align:justify">C4 is a commercially popular grade of cinnamon, slightly thicker than C5, with a diameter ranging from 13 to 14 mm. Its golden brown color gives it an attractive appearance, making it visually appealing while maintaining a high level of quality. </p>
+                <p class="longp" style="text-align:justify">Known for its mild aroma with a sweet touch, C4 cinnamon is widely used in the spice industry, especially for tea blends and cooking powders. Despite its thicker nature, it remains cost-effective, offering a great balance of quality and price. This makes it a go-to choice for many culinary applications and a versatile ingredient in various spice blends.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- FIFTH PRODUCT SECTION: Image Right, Text Left -->
+<section class="ls section-about s-pt-0 s-pb-0 text-center text-sm-center">
+    <div class="container">
+        <div class="row align-items-center">
+            <!-- Text Content Section -->
+            <div class="col-lg-6 text-lg-left text-center">
+                <h6 class="special-heading sub-title"><span>Panagolish True Cinnamon</span></h6>
+                <h3 class="special-heading">H1 Cinnamon </h3>
+                <div class="my-div mb-4"></div>
+
+                <p class="smallp" style="text-align:justify">H1 is a medium-grade cinnamon known for its robust flavor, with a diameter ranging from 21 to 23 mm. It has a distinct brown color with a rough outer bark, which gives it a more rustic appearance. While its taste offers a strong flavor with less sweetness compared to higher-grade cinnamons, it is widely used in ground cinnamon production and for pharmaceutical and industrial applications.</p>
+                <p class="longp" style="text-align:justify">Due to its rough appearance, H1 is not ideal for presentation purposes, but its potent flavor and versatility make it a practical choice in various production processes where aesthetic considerations are less important.</p>
+            </div>
+
+            <!-- Image Section (Image on the right) -->
+            <div class="col-lg-6 text-center">
+                <img src="7.png" alt="Cinnamon Sticks" class="img-fluid" style="width: 600px;">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- SIXTH PRODUCT SECTION: Image Left, Text Right -->
+<section class="ls section-about s-pt-0 s-pb-0 text-center text-sm-center">
+    <div class="container">
+        <div class="row align-items-center">
+            <!-- Image Section -->
+            <div class="col-lg-6 text-center">
+                <img src="8.png" alt="Product Image" class="img-fluid" style="width: 600px;">
+            </div>
+
+            <!-- Text Content Section -->
+            <div class="col-lg-6 text-lg-left text-center">
+                <h6 class="special-heading sub-title"><span>Panagolish True Cinnamon</span></h6>
+                <h3 class="special-heading">H2 Cinnamon</h3>
+                <div class="my-div mb-4"></div>
+
+                <p class="smallp" style="text-align:justify">H2 is a popular grade of cinnamon, typically found in its bark form, and is prized for its golden yellow color. Known for its aromatic qualities, H2 is often chosen in bulk and bark form, particularly for exports. It strikes a balance between flavor and cost, making it a favored option among cinnamon bark lovers.</p>
+                <p class="longp" style="text-align:justify">While it may not have the same intense sweetness as higher-grade cinnamons, its unique aroma and reasonable pricing make it an excellent choice for large-scale use in both culinary and commercial applications.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- SEVENTH PRODUCT SECTION: Image Right, Text Left -->
+<section class="ls section-about s-pt-0 s-pb-0 text-center text-sm-center">
+    <div class="container">
+        <div class="row align-items-center">
+            <!-- Text Content Section -->
+            <div class="col-lg-6 text-lg-left text-center">
+                <h6 class="special-heading sub-title"><span>Panagolish True Cinnamon</span></h6>
+                <h3 class="special-heading">Cinnamon Powder</h3>
+                <div class="my-div mb-4"></div>
+
+                <p class="smallp" style="text-align:justify">Cinnamon powder is finely ground cinnamon that ranges in color from golden to brown, depending on the source. It is a versatile ingredient widely used in baking, cooking, teas, cosmetics, and even medicine. Since it can be made from any grade of cinnamon stick, the quality of the powder depends on the quality of the source sticks used.</p>
+                <p class="longp" style="text-align:justify">As a result, cinnamon powder can vary in flavor intensity, with higher-grade sticks producing a more aromatic and flavorful powder. Its wide range of uses and the ability to be sourced from different grades make it a staple in both household and industrial applications.</p>
+            </div>
+
+            <!-- Image Section (Image on the right) -->
+            <div class="col-lg-6 text-center">
+    <img src="29.jpg" alt="Cinnamon Essential Oil" class="img-fluid" style="width: 600px;">
+</div>
+
+        </div>
+    </div>
+</section>
+
+
+
+
+
+                      
                   <!-- products -->
 
-                  <ul class="products">
-                    <li class="product">
-                      <a
-                        class="woocommerce-LoopProduct-link"
-                        href="shop-product-left.php"
-                      >
-                        <img src="pic.jpeg" alt="" />
-                        <h2 class="producthead">ALBA</h2>
-                        <!-- <div class="star-rating">
-												<span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span>
-											</div> -->
-                        <div class="product-description-short">
-                          <p>
-                            <span>Quality:</span>
-                            <span
-                              ><strong
-                                >Highest and Expensive Grade</strong
-                              ></span
-                            >
-                          </p>
-                          <p>
-                            <span>Diameter:</span>
-                            <span><strong> 6 mm</strong></span>
-                          </p>
-                          <p>
-                            <span>Color:</span>
-                            <span><strong>Pale Golden</strong></span>
-                          </p>
-                        </div>
-                        <!-- <span class="price">
-												<del>
-													<span>
-														<span>$</span>15.00
-													</span>
-												</del>
-												<ins>
-													<span>
-														<span>$</span>12.00
-													</span>
-												</ins>
-											</span> -->
-                      </a>
-                      <a
-                        rel="nofollow"
-                        href="shop-product-left.php"
-                        class="button product_type_simple add_to_cart_button"
-                        >View</a
-                      >
-                      <a
-                        href="shop-product-left.php"
-                        class="added_to_cart wc-forward"
-                        title="View cart"
-                        >View Product</a
-                      >
-                    </li>
-
-                    <li class="product">
-                      <a
-                        class="woocommerce-LoopProduct-link"
-                        href="shop-product-left-c5special.php"
-                      >
-                        <img src="pic.jpeg" alt="" />
-                        <h2 class="producthead">C5 Special</h2>
-                        <!-- <div class="star-rating">
-												<span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span>
-											</div> -->
-                        <div class="product-description-short">
-                          <p>
-                            <span>Quality:</span>
-                            <span><strong>Third Highest Grade</strong></span>
-                          </p>
-                          <p>
-                            <span>Diameter:</span>
-                            <span><strong>7-9 mm</strong></span>
-                          </p>
-                          <p>
-                            <span>Color:</span>
-                            <span><strong>Light Brown</strong></span>
-                          </p>
-                        </div>
-                        <!-- <span class="price">
-												<span>
-													<span>$</span>18.00
-												</span>
-											</span> -->
-                      </a>
-                      <a
-                        rel="nofollow"
-                        href="shop-product-left-c5special.php"
-                        class="button product_type_simple add_to_cart_button"
-                        >View
-                      </a>
-                    </li>
-
-                    <li class="product">
-                      <a
-                        class="woocommerce-LoopProduct-link"
-                        href="shop-product-left-c5.php"
-                      >
-                        <img src="pic.jpeg" alt="" />
-                        <h2 class="producthead">C5</h2>
-
-                        <!-- <div class="star-rating">
-												<span style="width:60%">Rated <strong class="rating">3.00</strong> out of 5</span>
-											</div> -->
-                        <div class="product-description-short">
-                          <p>
-                            <span>Quality:</span>
-                            <span><strong>High Grade</strong></span>
-                          </p>
-                          <p>
-                            <span>Diameter:</span>
-                            <span><strong>10-12 mm</strong></span>
-                          </p>
-                          <p>
-                            <span>Color:</span>
-                            <span><strong>Deep Yellow</strong></span>
-                          </p>
-                        </div>
-                        <!-- <span class="price">
-												<span>
-													<span>$</span>35.00
-												</span>
-											</span> -->
-                      </a>
-                      <a
-                        rel="nofollow"
-                        href="shop-product-left-c5.php"
-                        class="button product_type_simple add_to_cart_button"
-                        >View</a
-                      >
-                    </li>
-
-                    <li class="product">
-                      <a
-                        class="woocommerce-LoopProduct-link"
-                        href="shop-product-left-c4.php"
-                      >
-                        <img src="pic.jpeg" alt="" />
-                        <h2 class="producthead">C4</h2>
-                        <!-- <div class="star-rating">
-												<span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span>
-											</div> -->
-                        <div class="product-description-short">
-                          <p>
-                            <span>Quality:</span>
-                            <span><strong>Commercially Popular</strong></span>
-                          </p>
-                          <p>
-                            <span>Diameter:</span>
-                            <span><strong>13-14 mm</strong></span>
-                          </p>
-                          <p>
-                            <span>Color:</span>
-                            <span><strong>Golden Brown</strong></span>
-                          </p>
-                        </div>
-                        <!-- <span class="price">
-												<span>
-													<span>$</span>20.00
-												</span>
-											</span> -->
-                      </a>
-                      <a
-                        rel="nofollow"
-                        href="shop-product-left-c4.php"
-                        class="button product_type_simple add_to_cart_button"
-                        >View</a
-                      >
-                    </li>
-
-                    <li class="product">
-                      <a
-                        class="woocommerce-LoopProduct-link"
-                        href="shop-product-left-h1.php"
-                      >
-                        <img src="pic.jpeg" alt="" />
-                        <h2 class="producthead">H1</h2>
-                        <!-- <div class="star-rating">
-												<span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span>
-											</div> -->
-                        <div class="product-description-short">
-                          <p>
-                            <span>Quality:</span>
-                            <span><strong>Medium Grade</strong></span>
-                          </p>
-                          <p>
-                            <span>Diameter:</span>
-                            <span><strong>21-23mm</strong></span>
-                          </p>
-                          <p>
-                            <span>Color:</span>
-                            <span
-                              ><strong
-                                >Brown with Rough Outer Bark</strong
-                              ></span
-                            >
-                          </p>
-                        </div>
-                        <!-- <span class="price">
-												<span>
-													<span>$</span>35.00
-												</span>
-											</span> -->
-                      </a>
-                      <a
-                        rel="nofollow"
-                        href="shop-product-left-h1.php"
-                        class="button product_type_simple add_to_cart_button"
-                        >View</a
-                      >
-                    </li>
-
-                    <li class="product">
-                      <a
-                        class="woocommerce-LoopProduct-link"
-                        href="shop-product-left-h2.php"
-                      >
-                        <img src="pic.jpeg" alt="" />
-                        <h2 class="producthead">H2</h2>
-                        <!-- <div class="star-rating">
-												<span style="width:93.4%">Rated <strong class="rating">4.67</strong> out of 5</span>
-											</div> -->
-                        <div class="product-description-short">
-                          <p>
-                            <span>Quality:</span>
-                            <span
-                              ><strong>Popular Grade in Bark Form</strong></span
-                            >
-                          </p>
-                          <!-- <p>
-													<span>Diameter:</span>
-													<span><strong>21-23mm</strong></span>
-												</p> -->
-                          <p>
-                            <span>Color:</span>
-                            <span><strong>Golden Yellow</strong></span>
-                          </p>
-                        </div>
-                        <!-- <span class="price">
-												<span>
-													<span>$</span>35.00
-												</span>
-											</span> -->
-                      </a>
-                      <a
-                        rel="nofollow"
-                        href="shop-product-left-h2.php"
-                        class="button product_type_simple add_to_cart_button"
-                        >View</a
-                      >
-                    </li>
-
-                    <li class="product">
-                      <a
-                        class="woocommerce-LoopProduct-link"
-                        href="shop-product-left-cinpowder.php"
-                      >
-                        <img src="pic.jpeg" alt="" />
-                        <h2 class="producthead"> Cinnamon Powder</h2>
-                        <!-- <div class="star-rating">
-                          <span style="width: 90%"
-                            >Rated <strong class="rating">4.50</strong> out of
-                            5</span
-                          >
-                        </div> -->
-                        <div class="product-description-short">
-							<p>
-								<span>Form:</span>
-								<span
-								  ><strong>Finely Ground Cinnamon</strong></span
-								>
-							  </p>
-							
-							  <p>
-								<span>Color:</span>
-								<span><strong>Golden to Brown</strong></span>
-							  </p>
-                        <!-- <span class="price">
-                          <span> <span>$</span>20.00 </span>
-                        </span> -->
-                      </a>
-                      <a
-                        rel="nofollow"
-                        href="shop-product-left-cinpowder.php"
-                        class="button product_type_simple add_to_cart_button"
-                        >View</a
-                      >
-                    </li>
-
-                  </ul>
-                </div>
-                <!-- columns 2
-
-                <nav class="woocommerce-pagination">
-                  <ul class="page-numbers">
-                    <li>
-                      <span class="page-numbers current">1</span>
-                    </li>
-                    <li>
-                      <a class="page-numbers" href="shop-left.php">2</a>
-                    </li>
-                    <li>
-                      <a class="next page-numbers" href="shop-left.php"
-                        ><i class="fas fa-chevron-right"></i
-                      ></a>
-                    </li>
-                  </ul>
-                </nav> -->
-              </main>
 
               <aside class="col-lg-5 col-xl-3 order-lg-1">
-                <div class="ls ms px-20 py-40">
+                <!-- <div class="ls ms px-20 py-40">
                   <div class="widget widget_product_search">
                     <h3 class="widget-title">Search</h3>
 
@@ -1504,159 +1335,12 @@
                       <input type="submit" value="Search" />
                     </form>
                   </div>
-                </div>
+                </div> -->
 
-                <div class="widget woocommerce widget_product_categories">
-                  <h3 class="widget-title">Categories</h3>
-                  <ul class="product-categories">
-                    <li class="cat-item cat-parent">
-                      <a href="shop-left.php" >
-                        Panagolish True Cinnamon Sticks</a
-                      >
-                      <span class="count">(7)</span>
-                      <ul class="children">
-                        <li class="cat-item">
-                          <a href="shop-product-left.php">ALBA</a>
-                        </li>
-                        <li class="cat-item">
-                          <a href="shop-product-left-c5special.php">C5 Special</a>
-                        </li>
-                        <li class="cat-item">
-                          <a href="shop-product-left-c5.php">C5</a>
-                        </li>
-                        <li class="cat-item">
-                          <a href="shop-product-left-c4.php">C4</a>
-                        </li>
-                        <li class="cat-item">
-                          <a href="shop-product-left-h1.php">H1</a>
-                        </li>
-                        <li class="cat-item">
-                          <a href="shop-product-left-h2.php">H2</a>
-                        </li>
-                        <li class="cat-item">
-                          <a href="shop-product-left-cinpowder.php">Cinnamon Powder</a>
-                        </li>
-                      </ul>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="widget woocommerce widget_top_rated_products">
-                  <h3 class="widget-title">Top Products</h3>
-                  <ul class="product_list_widget">
-                    <li>
-                      <a href="shop-product-left.php">
-                        <img
-                          src="pic.jpeg"
-                          alt="ALBA"
-                        />
-                        <span class="product-title">ALBA</span>
-                      </a>
-                      <!-- <div class="star-rating">
-                        <span style="width: 90%"
-                          >Rated
-                          <strong class="rating">4.50</strong>
-                          out of 5
-                        </span>
-                      </div> -->
-                      <span class="woocommerce-Price-amount amount" >
-						<span class="woocommerce-Price-currencySymbol" >Diameter: 6 mm</span>
-
-						<span class="woocommerce-Price-currencySymbol" >Color: Pale Golden</span>
-
-
-                      </span>
-                    </li>
-
-                    <li>
-                      <a href="shop-product-left-c5special.php">
-                        <img src="pic.jpeg" alt="C5 Special" />
-                        <span class="product-title">C5 Special </span>
-                      </a>
-                      <!-- <div class="star-rating">
-                        <span style="width: 80%"
-                          >Rated
-                          <strong class="rating">4.00</strong>
-                          out of 5
-                        </span>
-                      </div> -->
-					  <span class="woocommerce-Price-amount amount">
-						<span class="woocommerce-Price-currencySymbol" >Diameter: 7-9 mm</span>
-
-						<span class="woocommerce-Price-currencySymbol" >Color: Light Brown</span>
-
-                      </span>
-                    </li>
-
-                    <li>
-                      <a href="shop-product-left-c5.php">
-                        <img src="pic.jpeg" alt="C5" />
-                        <span class="product-title">C5 </span>
-                      </a>
-                      <!-- <div class="star-rating">
-                        <span style="width: 80%"
-                          >Rated
-                          <strong class="rating">4.00</strong>
-                          out of 5
-                        </span>
-                      </div> -->
-					  <span class="woocommerce-Price-amount amount">
-						<span class="woocommerce-Price-currencySymbol" >Diameter: 10-12 mm</span>
-
-						<span class="woocommerce-Price-currencySymbol" >Color: Deep Yellow</span>
-
-                      </span>
-                    </li>
-
-                    <li>
-                      <a href="shop-product-left-c4.php">
-                        <img src="pic.jpeg" alt="C4" />
-                        <span class="product-title">C4</span>
-                      </a>
-                      <!-- <div class="star-rating">
-                        <span style="width: 80%"
-                          >Rated
-                          <strong class="rating">4.00</strong>
-                          out of 5
-                        </span>
-                      </div> -->
-					  <span class="woocommerce-Price-amount amount">
-						<span class="woocommerce-Price-currencySymbol" >Diameter: 13-14 mm</span>
-
-						<span class="woocommerce-Price-currencySymbol" >Color: Golden Brown</span>
-
-                      </span>
-                    </li>
-
-                    <li>
-                      <a href="shop-product-left-cinpowder.php">
-                        <img
-                          src="pic.jpeg"
-                          alt="Cinnamon Powder"
-                        />
-                        <span class="product-title">H1</span>
-                      </a>
-                      <!-- <div class="star-rating">
-                        <span style="width: 100%"
-                          >Rated
-                          <strong class="rating">5.00</strong>
-                          out of 5
-                        </span>
-                      </div> -->
-					  <span class="woocommerce-Price-amount amount">
-						<span class="woocommerce-Price-currencySymbol" >Diameter: 21-23 mm</span>
-
-						<span class="woocommerce-Price-currencySymbol" >Color: Brown with rough outer bark</span>
-
-                      </span>
-                    </li>
-                  </ul>
-                </div>
-
-				<div class="widget woocommerce widget_price_filter">
-					<h3 class="widget-title">Filter by Quality:</h3>
+              
 
 					<!-- <label for="quality-filter">Filter by Quality:</label> -->
+<!--            
 <select id="quality-filter">
   <option value="all">All Qualities</option>
   <option value="Highest and Expensive Grade">Highest and Expensive Grade</option>
@@ -1667,8 +1351,7 @@
   <option value="Popular Grade in Bark Form">Popular Grade in Bark Form</option>
 </select>
 
-<!-- Filter Button -->
-<button id="filter-button" class="button" style="margin-top: 30px;">Filter</button>
+<button id="filter-button" class="button" style="margin-top: 30px;">Filter</button> -->
 				
 
                 <!-- <div class="widget woocommerce widget_product_tag_cloud">

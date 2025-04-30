@@ -132,6 +132,7 @@
   }
   
 .products {
+	margin-top: -20px;
 	clear: both;
 	display: flex;
 	flex-wrap: wrap;
