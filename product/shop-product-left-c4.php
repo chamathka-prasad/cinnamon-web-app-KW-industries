@@ -862,11 +862,11 @@
 						<div class="col-md-12 text-center text-sm-left">
 							<h1>C4 Cinnamon Product</h1>
 							<ol class="breadcrumb">
-								<li class="breadcrumb-item">
-									<a href="./">Home</a>
+							<li class="breadcrumb-item">
+									<a href="../home/index.php">Home</a>
 								</li>
 								<li class="breadcrumb-item">
-									<a href="#">Shop</a>
+									<a href="shop-left.php">Shop</a>
 								</li>
 								<li class="breadcrumb-item active">
 									C4

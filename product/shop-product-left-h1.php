@@ -853,7 +853,7 @@
 				<span class="toggle_menu"><span></span></span>
 			</header>
 
-			<section class="page_title ds s-parallax s-overlay s-py-65">
+			<section class="page_title ds s-parallax s-py-65">
 				<div class="s-blur"></div>
 				<div class="container">
 					<div class="row">
@@ -862,11 +862,11 @@
 						<div class="col-md-12 text-center text-sm-left">
 							<h1>H1 Cinnamon Product</h1>
 							<ol class="breadcrumb">
-								<li class="breadcrumb-item">
-									<a href="./">Home</a>
+							<li class="breadcrumb-item">
+									<a href="../home/index.php">Home</a>
 								</li>
 								<li class="breadcrumb-item">
-									<a href="#">Shop</a>
+									<a href="shop-left.php">Shop</a>
 								</li>
 								<li class="breadcrumb-item active">
 									H1
