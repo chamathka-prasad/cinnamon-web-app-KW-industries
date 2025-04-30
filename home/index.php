@@ -35,6 +35,9 @@
 		<script src="js/vendor/jquery-1.12.4.min.js"></script>
 	<![endif]-->
 
+	
+  </script>
+
 </head>
 
 <body>
@@ -857,12 +860,13 @@
 				<span class="toggle_menu"><span></span></span>
 			</header>
 
+			
 			<div class="hero-section">
 
   				<div class="cinnamon-container" id="cinnamon-container"></div>
 					<section class="page_slider">
 						<div class="mouse_down">
-							<a href="#about"><img src="../images/mouse.png"></a>
+							<a href="#about"><img src="../home/assets/mouse.png"></a>
 							<svg width="320" height="45" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
 								<g>
 									<title>Layer 1</title>
@@ -877,7 +881,7 @@
 								<li class="ds cover-image s-overlay text-left">
 								<video 
 									class="slider-video"
-									src="../videos/cinnamon-flying.mp4"
+									src="../home/assets/cinnamon-flying.mp4"
 									autoplay
 									muted
 									loop
@@ -885,7 +889,7 @@
 									style="width:100%;height:auto;object-fit:cover;">
 									Your browser does not support the video tag.
 								</video>
-									<!-- <source src="../images/gallery/cinnamon-flying.mp4" type="video/mp4"> -->
+									
 									<div class="container">
 										<div class="row">
 											<div class="col-md-12">
@@ -894,23 +898,19 @@
 														<div class="intro_layer">
 
 															<h2 class="text-capitalize intro_featured_word">
-																<span class="color-main" id="color-main-tag">Ceylon's Finest: Pure Cinnamon <span class="pana"> & Panagolish </span></span> 
-																
+																<span class="gold">We provide</span>
+        														<span class="white">True Cinnamon</span>
+        														<span class="gold-small">to the whole world!</span>
 																
 															</h2>
-															<p class="intro_after_featured_word text-center">
-																Welcome to KW Industries! we are the proud creators of Panagolish – a Product dedicated to 
-																spreading the truth, value, and purity of Sri Lanka's true cinnamon
-															</p>
-															<a href="#" class="btn btn-maincolor2 medium-btn"  id="gradient-background-button">Explore our Products</a>
+															<a href="../product/shop-left.php" class="btn btn-maincolor2 medium-btn"  id="gradient-background-button">Explore our Products</a>
 														
 
 															
 														</div>
 													</div>
 													<div class="hero-image-container">
-														<!-- <img id="animated-hero-image" src="../images/gallery/cinnamon-powder-falling.mp4" alt="Cinnamon product"> -->
-														<img id="animated-hero-image" src="../images/gallery/03.jpg" alt="Cinnamon product">
+														<img id="animated-hero-image" src="../home/assets/gal1.jpg" alt="Cinnamon product">
 													</div> <!-- eof .intro_layers -->
 												</div> <!-- eof .intro_layers_wrapper -->
 											</div> <!-- eof .col-* -->
@@ -922,7 +922,7 @@
 								<li class="ds cover-image s-overlay text-left">
 									<video 
 										class="slider-video"
-										src="../videos/cinnamon-powder-falling.mp4"
+										src="../home/assets/cinnamon-powder-falling.mp4"
 										autoplay
 										muted
 										loop
@@ -930,7 +930,7 @@
 										style="width:100%;height:auto;object-fit:cover;">
 										Your browser does not support the video tag.
 									</video>
-									<!-- <img src="../images/slide02.jpg" alt="img"> -->
+									
 									<div class="container">
 										<div class="row">
 											<div class="col-md-12">
@@ -939,19 +939,18 @@
 														<div class="intro_layer">
 
 															<h2 class="text-capitalize intro_featured_word">
-																<span class="color-main" id="color-main-tag">Ceylon's Finest: Pure Cinnamon <span class="pana"> & Panagolish </span></span> 
+																<span class="gold">We provide</span>
+        														<span class="white">True Cinnamon</span>
+        														<span class="gold-small">to the whole world!</span>
+																
 															</h2>
-															<p class="intro_after_featured_word text-center">
-																Welcome to KW Industries! we are the proud creators of Panagolish – a Product dedicated to 
-																spreading the truth, value, and purity of Sri Lanka's true cinnamon.
-															</p>
-															<a href="#" class="btn btn-maincolor2 medium-btn" id="gradient-background-button">Explore our Products</a>
+															<a href="../product/shop-left.php" class="btn btn-maincolor2 medium-btn" id="gradient-background-button">Explore our Products</a>
 
 														</div>
 													</div>
 													<div class="hero-image-container">
 
-														<img id="animated-hero-image" src="../images/gallery/02.jpg" alt="Cinnamon product">
+														<img id="animated-hero-image" src="../home/assets/gal-2.jpg" alt="Cinnamon product">
 													</div>
 														<!-- eof .intro_layers -->
 												</div> <!-- eof .intro_layers_wrapper -->
@@ -962,7 +961,7 @@
 								<li class="ds cover-image s-overlay text-left">
 								<video 
 									class="slider-video"
-									src="../videos/cinnamon-dried.mp4"
+									src="../home/assets/cinnamon-dried.mp4"
 									autoplay
 									muted
 									loop
@@ -970,7 +969,7 @@
 									style="width:100%;height:auto;object-fit:cover;">
 									Your browser does not support the video tag.
 								</video>
-									<!-- <img src="../images/slide03.jpg" alt="img"> -->
+									
 								<div class="container">
 									<div class="row">
 										<div class="col-md-12">
@@ -979,18 +978,17 @@
 													<div class="intro_layer">
 
 														<h2 class="text-capitalize intro_featured_word">
-															<span class="color-main" id="color-main-tag">Ceylon's Finest: Pure Cinnamon <span class="pana"> & Panagolish </span></span> 
+															<span class="gold">We provide</span>
+        													<span class="white">True Cinnamon</span>
+        													<span class="gold-small">to the whole world!</span>
+															
 														</h2>
-														<p class="intro_after_featured_word text-center" >
-															Welcome to KW Industries! we are the proud creators of Panagolish – a Product dedicated to 
-															spreading the truth, value, and purity of Sri Lanka's true cinnamon.
-														</p>
-														<a href="#" class="btn btn-maincolor2 medium-btn" id="gradient-background-button">Explore our Products</a>
+														<a href="../product/shop-left.php" class="btn btn-maincolor2 medium-btn" id="gradient-background-button">Explore our Products</a>
 
 													</div>
 												</div>
 												<div class="hero-image-container">
-													<img id="animated-hero-image" src="../images/gallery/04.jpg" alt="Cinnamon product">
+													<img id="animated-hero-image" src="../home/assets/gal-8.jpg" alt="Cinnamon product">
 
 												</div>
 											</div> <!-- eof .intro_layers_wrapper -->
@@ -1002,156 +1000,8 @@
 					</div>
 				</section>
 			</div>
-		
 
-			<!--  -->
-
-		
-
-			<section id="about" class="ls section-about s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-145 s-pb-lg-125 s-pb-md-85 s-pb-55 text-center text-sm-center">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-6">
-							<h6 class="special-heading sub-title"><span>Who are KW Industries?</span></h6>
-							<h2 class="special-heading">History About Factory</h2>
-							<div class="divider-45 hidden-below-md"></div>
-							<div class="divider-30 hidden-above-md"></div>
-							<p class="smallp">We are KW Industries - From the Island of Cinnamon - Sri Lanka.</p>
-							<p class="longp">The story of <i>Panagolish</i> begins with the island’s rich cinnamon history. For centuries, Sri 
-		Lanka has been the home of the world’s finest cinnamon, treasured for its aroma, 
-		health benefits, and natural purity. 
-		KW Industries honors this legacy, but goes a step further..</p>
-							<div class="divider-50 hidden-below-md"></div>
-							<div class="divider-30 hidden-above-md"></div>
-							<!-- link to about us section -->
-							<a href="./" class="btn btn-maincolor medium-btn">learn more</a>
-							<span>or</span>
-							<!-- link to products section -->
-							<a href="contact.html" class="btn btn-with-border">go to catalog</a>
-						</div>
-					</div>
-				</div>
-			</section>
-
-		<section id="process" class="s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-145 s-pb-lg-125 s-pb-md-85 s-pb-55">
-			<div class="container">
-				
-				<div class="row">
-					<!-- Left Side: Slider -->
-					<div class="col-lg-6">
-					<div class="process-title">
-						<h4>Process of Cinnamon Making</h4>
-						<!-- <div class="divider"></div> -->
-					</div>
-						
-					<div class="slider-container">
-						<div class="slider">
-							<div class="slide active">
-								<img src="../images/cinnamon.jpeg" alt="Slide 1">
-								<div class="slide-content">
-									<h2>Cinnamon Cultivation</h2>
-									<!-- <p>The process begins with the careful cultivation of crops in suitable soil under favorable climatic conditions. Regular watering, proper fertilization, and pest control are essential to ensure healthy growth and a good yield.</p> -->
-								</div>
-							</div>
-							<div class="slide next">
-								<img src="../images/cinnamon.jpeg" alt="Slide 2">
-								<div class="slide-content">
-									<h2>Cinnamon Harvesting</h2>
-									<!-- <p>Once the crops reach maturity, they are harvested at the right time to preserve their quality. The harvesting method depends on the type of crop and is done manually or using machinery to avoid damage.</p> -->
-								</div>
-							</div>
-							<div class="slide">
-								<img src="../images/cinnamon.jpeg" alt="Slide 3">
-								<div class="slide-content">
-									<h2>Cinnamon Peeling</h2>
-									<!-- <p>After harvesting, the outer layers or skins of the produce are removed. This peeling process is usually done to enhance quality, improve appearance, and prepare the product for further processing.</p> -->
-								</div>
-							</div>
-							<div class="slide">
-								<img src="../images/cinnamon.jpeg" alt="Slide 4">
-								<div class="slide-content">
-									<h2>Cinnamon Drying</h2>
-									<!-- <p>The peeled produce is then dried to reduce moisture content. Drying helps in preserving the product for longer periods and prevents the growth of mold or bacteria. It can be done naturally under the sun or using mechanical dryers.</p> -->
-								</div>
-							</div>
-							<div class="slide prev">
-								<img src="../images/cinnamon.jpeg" alt="Slide 5">
-								<div class="slide-content">
-									<h2>Cinnamon Grading & Packing </h2>
-									<!-- <p>Finally, the dried product is sorted based on size, quality, or color, a step known as grading. Once graded, it is packed in suitable materials to protect it during storage and transportation, ensuring it reaches the market in good condition.</p> -->
-								</div>
-							</div>
-						</div>
-						
-						<div class="navigation-dots">
-							<div class="dot active"></div>
-							<div class="dot"></div>
-							<div class="dot"></div>
-							<div class="dot"></div>
-							<div class="dot"></div>
-						</div>
-					</div>
-				</div>
-				
-					
-					
-				<div class="col-lg-6 right-side-description">
-					<div class="unique-features">
-						<h4>Uniqueness of Our Cinnamon</h4>
-					</div>
-					<div class="feature-box-container">
-						<div class="feature-box-item">
-							<div class="feature-box text-center">
-								<div class="icon-styled fs-60 color-main2">
-									<i class="fas fa-gem"></i>
-								</div>
-								<h6 class="text-uppercase">Technologically advanced</h6>
-								<p>
-										Uniquely designed for true cinnamon processings.
-								</p>
-							</div>
-						</div>
-						<div class="feature-box-item">
-							<div class="feature-box text-center ">
-								<div class="icon-styled fs-60 color-main2">
-									<i class="fas fa-globe"></i>
-								</div>
-								<h6 class="text-uppercase"> 
-									Global standard
-								</h6>
-								<p>
-									Our facility maintains hygiene and purity standards that meet global export demands.
-								</p>
-							</div>
-						</div>
-						<div class="feature-box-item">
-							<div class="feature-box text-center">
-								<div class="icon-styled fs-60 color-main2">
-									<i class="fas fa-shield-alt"></i>
-								</div>
-								<h6 class="text-uppercase">Expertly Processed</h6>
-								<p>
-									Every step, from cultivation to packing, is monitored with years of experience. 
-								</p>
-							</div>
-						</div>
-						<div class="feature-box-item">
-							<div class="feature-box text-center ">
-								<div class="icon-styled fs-60 color-main2">
-									<i class="fas fa-leaf"></i>
-								</div>
-								<h6 class="text-uppercase">100% True Cinnamon</h6>
-								<p>
-									Ensures that the essence of “true cinnamon” remains untouched while meeting the needs of the modern world.
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-						
-
+			<!-- PANAGOLISH-->
 			<section class="ls  s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-140 s-pb-lg-120 s-pb-md-80 s-pb-50 text-center text-sm-left">
 				<div class="container">
 					<div class="row c-gutter-0">
@@ -1161,9 +1011,8 @@
 							<div class="divider-40 hidden-below-md"></div>
 							<div class="divider-30 hidden-above-md"></div>
 
-							
 							<div class="mainproduct_name">
-								<h4 class="animated-text">Panagolish True Cinnamon Sticks (Bales)</h4>
+								<h1 class="animated-text" id="pana-text">Panagolish True Cinnamon Sticks (Bales)</h1>
 								<div class="hr-container">
 									<div class="hr-line"></div>
 									<img src="../images/gallery/cinnamon.png" alt="Cinnamon and Leaf" class="hr-image">
@@ -1171,959 +1020,389 @@
 								</div>
 							</div>
 
-							
-							<div class="pana-text-container">
-								<!-- Image Section -->
-								<div class="hero-image-container">
-									<img id="animated-hero-image" src="../images/gallery/05.jpg" alt="Cinnamon product">
-
-								
-								</div>
-								
+							<div class="slider-container">
+								<div class="slider">
+									<div class="slide active">
+										<img src="../home/assets/Cinnamon-Stick-2.webp." alt="Slide 1">
+										<div class="slide-content">
+											<h2>"Panagolish" True Cinnamon Sticks,also known as "Cinnamon Bales".</h2>
 									
-							<!-- Key Points Section -->
-									<div class="key-points">
-										<div class="key-grid">
-											<div id="animated-hero-image"class="grid-item-pana">"Panagolish" True Cinnamon Sticks,also known as "Cinnamon Bales".</div>
-											<div id="animated-hero-image"class="grid-item-pana">Bundled sticks of pure Ceylon cinnamon, straight from Sri Lanka.</div>
-											<div id="animated-hero-image" class="grid-item-pana">Each bale is tied and packed by experienced hands, ensuring high quality and natural purity</div>
 										</div>
 									</div>
-								
-								
-							</div>
-							
-							<br><br><br>
-							<div class="mainproduct_name">
-								<h4 class="animated-text-range">Our Cinnamon Grades </h4>
-								<div class="hr-container">
-									<div class="hr-line"></div>
-									<img src="../images/gallery/cinnamon.png" alt="Cinnamon and Leaf" class="hr-image">
-									<div class="hr-line"></div>
-								</div>
-							</div>
-							<div class="grid-container-1">
-								<div class="grid-container">
-
-									<!-- Repeat 7 times -->
-									<div class="grid-item">
-										<h3 class="item-title">ALBA</h3>
-										<div class="image-container">
-										<!-- <img src="../images/gallery/01.jpg" alt="Demo"> -->
-										
+									<div class="slide next">
+										<img src="../home/assets/cinnamon.jpeg" alt="Slide 2">
+										<div class="slide-content">
+											<h2>Bundled sticks of pure Ceylon cinnamon, straight from Sri Lanka.</h2>
+											
 										</div>
-										<p class="description">Highest and most expensive grade of true cinnamon.</p>
-										<button class="view-btn">View  </button>
+									</div>
+									<div class="slide">
+										<img src="../home/assets/cinnamon-meta.jpg" alt="Slide 3">
+										<div class="slide-content">
+											<h2>Each bale Ensures high quality and natural purity</h2>
+											
+										</div>
 									</div>
 									
-									<!-- Repeat 7 times -->
-									<div class="grid-item">
-										<h3 class="item-title">C5 Special</h3>
-										<div class="image-container">
-										<!-- <img src="image.jpg" alt="Demo"> -->
-										
-										</div>
-										<p class="description">Third highest grade of cinnamon available in Sri Lanka</p>
-										<button class="view-btn">View</button>
-									</div>
-									<div class="grid-item">
-										<h3 class="item-title">C5</h3>
-										<div class="image-container">
-										<!-- <img src="image.jpg" alt="Demo"> -->
-										
-										</div>
-										<p class="description">High-grade cinnamon with a strong market presence</p>
-										<button class="view-btn">View</button>
-									</div>
-									<div class="grid-item">
-										<h3 class="item-title">C4</h3>
-										<div class="image-container">
-										<!-- <img src="image.jpg" alt="Demo"> -->
-										
-										</div>
-										<p class="description"> Commercially popular, slightly thicker than C5. </p>
-										<button class="view-btn">View</button>
-									</div>
-
 								</div>
-
-								<div class="center-row">
-									<div class="grid-item">
-										<h3 class="item-title">H1</h3>
-										<div class="image-container"></div>
-										<p class="description">Medium-grade</p>
-										<button class="view-btn">View</button>
-									</div>
-									<div class="grid-item">
-										<h3 class="item-title">H2</h3>
-										<div class="image-container"></div>
-										<p class="description">Popular grade in bark form</p>
-										<button class="view-btn">View</button>
-									</div>
-									<div class="grid-item">
-										<h3 class="item-title">CINNAMON POWDER</h3>
-										<div class="image-container"></div>
-										<p class="description">Finely ground cinnamon</p>
-										<button class="view-btn">View</button>
-									</div>
+						
+								<div class="navigation-dots">
+									<div class="dot active"></div>
+									<div class="dot"></div>
+									<div class="dot"></div>
 								</div>
 							</div>
-					</div>	
-				</div>		
-
-			</section>	
-							
-							
-
-
-		
-
-							<!-- <div class="tab-pane fade show active" id="tab01_pane" role="tabpanel" aria-labelledby="tab01">
-
-								<div class="col-12 columns-3">
-									<ul class="products">
-										<li class="product">
-											<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-												<img src="../images/shop/01.jpg" alt="">
-												<h2>Marijuana oil cbd bottle</h2>
-												<div class="star-rating">
-													<span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span>
-												</div>
-												<div class="product-description-short">
-													<p>
-														<span>Type:</span>
-														<span><strong>Indica</strong></span>
-													</p>
-													<p>
-														<span>CBD:</span>
-														<span><strong>11%</strong></span>
-													</p>
-													<p>
-														<span>THC:</span>
-														<span><strong>30%</strong></span>
-													</p>
-												</div>
-												<span class="price">
-													<del>
-														<span>
-															<span>$</span>15.00
-														</span>
-													</del>
-													<ins>
-														<span>
-															<span>$</span>12.00
-														</span>
-													</ins>
-												</span>
-											</a>
-											<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-											<a href="cart.html" class="added_to_cart wc-forward" title="View cart">View cart</a>
-										</li>
-
-
-										<li class="product">
-											<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-												<img src="../images/shop/02.jpg" alt="">
-												<h2>Medical marijuana extract</h2>
-												<div class="star-rating">
-													<span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span>
-												</div>
-												<div class="product-description-short">
-													<p>
-														<span>Type:</span>
-														<span><strong>Indica</strong></span>
-													</p>
-													<p>
-														<span>CBD:</span>
-														<span><strong>11%</strong></span>
-													</p>
-													<p>
-														<span>THC:</span>
-														<span><strong>30%</strong></span>
-													</p>
-												</div>
-												<span class="price">
-													<span>
-														<span>$</span>18.00
-													</span>
-												</span>
-											</a>
-											<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-										</li>
-
-
-										<li class="product">
-											<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-												<img src="../images/shop/03.jpg" alt="">
-												<h2>Marijuana oil cbd bottle</h2>
-												<div class="star-rating">
-													<span style="width:60%">Rated <strong class="rating">3.00</strong> out of 5</span>
-												</div>
-												<div class="product-description-short">
-													<p>
-														<span>Type:</span>
-														<span><strong>Indica</strong></span>
-													</p>
-													<p>
-														<span>CBD:</span>
-														<span><strong>11%</strong></span>
-													</p>
-													<p>
-														<span>THC:</span>
-														<span><strong>30%</strong></span>
-													</p>
-												</div>
-												<span class="price">
-													<span>
-														<span>$</span>35.00
-													</span>
-												</span>
-											</a>
-											<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-										</li>
-
-
-										<li class="product">
-											<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-												<img src="../images/shop/04.jpg" alt="">
-												<h2>Marijuana oil cbd bottle</h2>
-												<div class="star-rating">
-													<span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span>
-												</div>
-												<div class="product-description-short">
-													<p>
-														<span>Type:</span>
-														<span><strong>Indica</strong></span>
-													</p>
-													<p>
-														<span>CBD:</span>
-														<span><strong>11%</strong></span>
-													</p>
-													<p>
-														<span>THC:</span>
-														<span><strong>30%</strong></span>
-													</p>
-												</div>
-												<span class="price">
-													<span>
-														<span>$</span>20.00
-													</span>
-												</span>
-											</a>
-											<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-										</li>
-
-
-										<li class="product">
-											<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-												<img src="../images/shop/05.jpg" alt="">
-												<h2>Medical marijuana extract</h2>
-												<div class="star-rating">
-													<span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span>
-												</div>
-												<div class="product-description-short">
-													<p>
-														<span>Type:</span>
-														<span><strong>Indica</strong></span>
-													</p>
-													<p>
-														<span>CBD:</span>
-														<span><strong>11%</strong></span>
-													</p>
-													<p>
-														<span>THC:</span>
-														<span><strong>30%</strong></span>
-													</p>
-												</div>
-												<span class="price">
-													<span>
-														<span>$</span>35.00
-													</span>
-												</span>
-											</a>
-											<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-										</li>
-
-
-										<li class="product">
-											<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-												<img src="../images/shop/06.jpg" alt="">
-												<h2>Marijuana oil cbd bottle</h2>
-												<div class="star-rating">
-													<span style="width:93.4%">Rated <strong class="rating">4.67</strong> out of 5</span>
-												</div>
-												<div class="product-description-short">
-													<p>
-														<span>Type:</span>
-														<span><strong>Indica</strong></span>
-													</p>
-													<p>
-														<span>CBD:</span>
-														<span><strong>11%</strong></span>
-													</p>
-													<p>
-														<span>THC:</span>
-														<span><strong>30%</strong></span>
-													</p>
-												</div>
-												<span class="price">
-													<span>
-														<span>$</span>35.00
-													</span>
-												</span>
-											</a>
-											<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-										</li>
-
-									</ul> --> 
-								<!-- </div>
-
-							</div> -->
-<!-- 
-									<div class="tab-pane fade" id="tab02_pane" role="tabpanel" aria-labelledby="tab02">
-
-										<div class="col-12 columns-3">
-											<ul class="products">
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/01.jpg" alt="">
-														<h2>Marijuana oil cbd bottle</h2>
-														<div class="star-rating">
-															<span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<del>
-																<span>
-																	<span>$</span>15.00
-																</span>
-															</del>
-															<ins>
-																<span>
-																	<span>$</span>12.00
-																</span>
-															</ins>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-													<a href="cart.html" class="added_to_cart wc-forward" title="View cart">View cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/02.jpg" alt="">
-														<h2>Medical marijuana extract</h2>
-														<div class="star-rating">
-															<span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>18.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/03.jpg" alt="">
-														<h2>Marijuana oil cbd bottle</h2>
-														<div class="star-rating">
-															<span style="width:60%">Rated <strong class="rating">3.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>35.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/04.jpg" alt="">
-														<h2>Marijuana oil cbd bottle</h2>
-														<div class="star-rating">
-															<span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>20.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/05.jpg" alt="">
-														<h2>Medical marijuana extract</h2>
-														<div class="star-rating">
-															<span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>35.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/06.jpg" alt="">
-														<h2>Marijuana oil cbd bottle</h2>
-														<div class="star-rating">
-															<span style="width:93.4%">Rated <strong class="rating">4.67</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>35.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-											</ul>
-										</div>
-
-									</div>
-
-									<div class="tab-pane fade" id="tab03_pane" role="tabpanel" aria-labelledby="tab03">
-
-										<div class="col-12 columns-3">
-											<ul class="products">
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/01.jpg" alt="">
-														<h2>Marijuana oil cbd bottle</h2>
-														<div class="star-rating">
-															<span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<del>
-																<span>
-																	<span>$</span>15.00
-																</span>
-															</del>
-															<ins>
-																<span>
-																	<span>$</span>12.00
-																</span>
-															</ins>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-													<a href="cart.html" class="added_to_cart wc-forward" title="View cart">View cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/02.jpg" alt="">
-														<h2>Medical marijuana extract</h2>
-														<div class="star-rating">
-															<span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>18.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="images/shop/03.jpg" alt="">
-														<h2>Marijuana oil cbd bottle</h2>
-														<div class="star-rating">
-															<span style="width:60%">Rated <strong class="rating">3.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>35.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/04.jpg" alt="">
-														<h2>Marijuana oil cbd bottle</h2>
-														<div class="star-rating">
-															<span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>20.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/05.jpg" alt="">
-														<h2>Medical marijuana extract</h2>
-														<div class="star-rating">
-															<span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>35.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/06.jpg" alt="">
-														<h2>Marijuana oil cbd bottle</h2>
-														<div class="star-rating">
-															<span style="width:93.4%">Rated <strong class="rating">4.67</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>35.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-											</ul>
-										</div>
-
-									</div>
-									<div class="tab-pane fade" id="tab04_pane" role="tabpanel" aria-labelledby="tab04">
-
-										<div class="col-12 columns-3">
-											<ul class="products">
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/01.jpg" alt="">
-														<h2>Marijuana oil cbd bottle</h2>
-														<div class="star-rating">
-															<span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<del>
-																<span>
-																	<span>$</span>15.00
-																</span>
-															</del>
-															<ins>
-																<span>
-																	<span>$</span>12.00
-																</span>
-															</ins>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-													<a href="cart.html" class="added_to_cart wc-forward" title="View cart">View cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/02.jpg" alt="">
-														<h2>Medical marijuana extract</h2>
-														<div class="star-rating">
-															<span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>18.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/03.jpg" alt="">
-														<h2>Marijuana oil cbd bottle</h2>
-														<div class="star-rating">
-															<span style="width:60%">Rated <strong class="rating">3.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>35.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/04.jpg" alt="">
-														<h2>Marijuana oil cbd bottle</h2>
-														<div class="star-rating">
-															<span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>20.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/05.jpg" alt="">
-														<h2>Medical marijuana extract</h2>
-														<div class="star-rating">
-															<span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>35.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-
-												<li class="product">
-													<a class="woocommerce-LoopProduct-link" href="shop-product-left.html">
-														<img src="../images/shop/06.jpg" alt="">
-														<h2>Marijuana oil cbd bottle</h2>
-														<div class="star-rating">
-															<span style="width:93.4%">Rated <strong class="rating">4.67</strong> out of 5</span>
-														</div>
-														<div class="product-description-short">
-															<p>
-																<span>Type:</span>
-																<span><strong>Indica</strong></span>
-															</p>
-															<p>
-																<span>CBD:</span>
-																<span><strong>11%</strong></span>
-															</p>
-															<p>
-																<span>THC:</span>
-																<span><strong>30%</strong></span>
-															</p>
-														</div>
-														<span class="price">
-															<span>
-																<span>$</span>35.00
-															</span>
-														</span>
-													</a>
-													<a rel="nofollow" href="shop-cart.html" class="button product_type_simple add_to_cart_button">Add to cart</a>
-												</li>
-
-											</ul>
-										</div>
-
-									</div>
-
-								</div>
-							</div>
-
-
 						</div>
 					</div>
-
 				</div>
-			</section> -->
-			
+			</section>
+		
 
-			<br><br><br>
-			<section class="ls s-py-0 c-gutter-0 container-px-0 text-center text-sm-left">
-				<div class="container-fluid">
+			<!-- ABOUT -->
+
+			<section id="about" class="section-about">
+				<div class="about-container">
+					<div class="about-left">
+						<h6 class="sub-title"><span>Who We Are?</span></h6>
+						<h2 class="special-heading">History About Factory</h2><br><br>
+						<p class="smallp">We are KW Industries - From the Island of Cinnamon - Sri Lanka.</p>
+						<p class="longp">
+						The story of <i>Panagolish</i> begins with the island’s rich cinnamon history. For centuries, Sri 
+						Lanka has been the home of the world’s finest cinnamon, treasured for its aroma, 
+						health benefits, and natural purity. 
+						KW Industries honors this legacy, but goes a step further..
+						</p>
+						<div class="about-buttons">
+						<a href="../product/shop-left.php" class="btn-maincolor">Learn more</a>
+						</div>
+					</div>
+					<div class="about-right">
+						<div class="about-image-wrapper" id="about-video-wrapper">
+							<img src="../home/assets/cinnamon.jpeg" alt="Cinnamon rolls">
+						<div class="play-icon" id="play-icon"></div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<script>
+				document.addEventListener('DOMContentLoaded', function() {
+					var playIcon = document.getElementById('play-icon');
+					playIcon.addEventListener('click', function() {
+					var wrapper = document.getElementById('about-video-wrapper');
+					wrapper.innerHTML = `
+					<video width="100%" height="100%" controls autoplay>
+						<source src="../home/assets/cinnamon-flying.mp4" type="video/mp4">
+						Your browser does not support the video tag.
+					</video>
+					`;
+					});
+    			});
+  			</script>
+
+<section class="ls section-portfolio s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-150 s-pb-lg-130 s-pb-md-90 s-pb-60 text-center text-sm-left">
+				<div class="container">
 					<div class="row">
 						<div class="col-12">
-							<h6 class="special-heading sub-title text-center"><span>KW INDUSTRIES</span></h6>
-							<h2 class="special-heading text-center"> KW Industries FAQ</h2>
+							<h6 class="special-heading sub-title text-center"><span>KW production</span></h6>
+							<h2 class="special-heading text-center" id="faq-title">Photo Gallery</h2>
 							<div class="divider-50 hidden-below-md"></div>
 							<div class="divider-30 hidden-above-md"></div>
 						</div>
 					</div>
-					<div class="row ">
+					<div class="row isotope-wrapper portfolio masonry-layout c-gutter-10 c-mb-10">
+						<div class="col-md-6 corporate">
+							<div class="vertical-item item-gallery content-absolute text-center ">
+								<div class="item-media">
+									<img src="../home/assets/gal1.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-1.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-md-6 entertainment innovations">
+							<div class="vertical-item item-gallery content-absolute text-center">
+								<div class="item-media">
+									<img src="../home/assets/gal-2.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-2.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="vertical-item item-gallery content-absolute text-center ">
+								<div class="item-media">
+									<img src="../home/assets/gal-3.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-3.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="vertical-item item-gallery content-absolute text-center ">
+								<div class="item-media">
+									<img src="../home/assets/gal-4.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-4.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="vertical-item item-gallery content-absolute text-center">
+								<div class="item-media">
+									<img src="../home/assets/gal-5.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-5.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 entertainment innovations">
+							<div class="vertical-item item-gallery content-absolute text-center">
+								<div class="item-media">
+									<img src="../home/assets/gal-6.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-6.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-md-3 ">
+							<div class="vertical-item item-gallery content-absolute text-center ">
+								<div class="item-media">
+									<img src="../home/assets/gal-7.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-7.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 entertainment innovations">
+							<div class="vertical-item item-gallery content-absolute text-center">
+								<div class="item-media">
+									<img src="../home/assets/gal-8.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-8.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						
+						
+					</div>
+				</div>
+			</section>
+
+
+			<div id="process-unique" class="s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-145 s-pb-lg-125 s-pb-md-85 s-pb-55">
+				<div class="col-lg-6" id="feature-center" >
+					
+					<div class="unique-features">
+						
+						<h4>Uniqueness of Our Cinnamon</h4>
+					</div>
+					<div class="feature-row-center">
+
+					
+						<div class="feature-box-container">
+							<div class="feature-box-item">
+								<div class="feature-box text-center">
+									<div class="icon-styled fs-60 color-main2">
+										<i class="fas fa-gem"></i>
+									</div>
+									<h6 class="text-uppercase">Technologically advanced</h6>
+									<p>
+											Uniquely designed for true cinnamon processings.
+									</p>
+								</div>
+							</div>
+							<div class="feature-box-item">
+								<div class="feature-box text-center ">
+									<div class="icon-styled fs-60 color-main2">
+										<i class="fas fa-globe"></i>
+									</div>
+									<h6 class="text-uppercase"> 
+										Global standard
+									</h6>
+									<p>
+										Our facility maintains hygiene and purity standards that meet global export demands.
+									</p>
+								</div>
+							</div>
+							<div class="feature-box-item">
+								<div class="feature-box text-center">
+									<div class="icon-styled fs-60 color-main2">
+										<i class="fas fa-shield-alt"></i>
+									</div>
+									<h6 class="text-uppercase">Expertly Processed</h6>
+									<p>
+										Every step, from cultivation to packing, is monitored with years of experience. 
+									</p>
+								</div>
+							</div>
+							<div class="feature-box-item">
+								<div class="feature-box text-center ">
+									<div class="icon-styled fs-60 color-main2">
+										<i class="fas fa-leaf"></i>
+									</div>
+									<h6 class="text-uppercase">100% True Cinnamon</h6>
+									<p>
+										Ensures that the essence of “true cinnamon” remains untouched while meeting the needs of the modern world.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+			</section>
+	
+			<br><br><br>
+			<div class="container-grade">
+				<h1>Cinnamon Grades</h1>
+				<p> We export 5 types of Cinnamon grades and  we are planning to expand our product range with bottled cinnamon items 
+				and more value-added cinnamon products.  </p>
+				<div class="mainproduct_name">
+					<div class="hr-container">
+						<div class="hr-line"></div><br><br><br>
+						<img src="../images/gallery/cinnamon.png" alt="Cinnamon and Leaf" class="hr-image">
+						
+						<div class="hr-line"></div>
+					</div>
+				</div>
+				<div class="grid-container-1">
+					<div class="grid-container">
+
+						
+						<div class="grid-item">
+							<div class="card-label">ALBA</div>
+							<div class="image-container">
+								<img src="../home/assets/alba.png" alt="Cinnamon and Leaf" >
+								<!-- <h3 class="item-title">ALBA</h3> -->
+							</div>
+							<!-- <p class="description">Highest and most expensive grade of true cinnamon.</p>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a>  </button> -->
+						</div>
+						
+						
+						<div class="grid-item">
+							<div class="card-label">C5 SPECIAL</div>
+							<div class="image-container">
+								<img src="../home/assets/C5 special.png" alt="Cinnamon and Leaf" >
+								<!-- <h3 class="item-title">C5 SPECIAL</h3> -->
+							</div>
+							<!-- <p class="description">Third highest grade of cinnamon available in Sri Lanka</p>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button> -->
+						</div>
+						<div class="grid-item">
+							<!-- <h3 class="item-title">C5</h3> -->
+							<div class="card-label">C5 </div>
+							<div class="image-container">
+								<img src="../home/assets/c5.png" alt="Cinnamon and Leaf" >
+								<!-- <h3 class="item-title">C5</h3> -->
+							</div>
+							<!-- <p class="description">High-grade cinnamon with a strong market presence</p>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button> -->
+						</div>
+						
+
+					</div><br><br>
+					<div class="center-row">
+						<div class="grid-item">
+							<div class="card-label">H1 </div>
+							<div class="image-container">
+								<img src="../home/assets/h1.png" alt="Cinnamon and Leaf" >
+								<!-- <h3 class="item-title">H1</h3> -->
+							</div>
+							<!-- <p class="description">Medium-grade</p> -->
+							<!-- <button class="view-btn"><a href ="../product/shop-left.php">View</a></buttovn> -->
+						</div>
+						<div class="grid-item">
+							<div class="card-label">H2 </div>
+							<div class="image-container">
+								<img src="../home/assets/h2.png" alt="Cinnamon and Leaf" >
+								<!-- <h3 class="item-title">H2</h3> -->
+							</div>
+							<!-- <p class="description">Popular grade in bark form</p>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button> -->
+						</div>
+
+						<div class="grid-item">
+							<!-- <h3 class="item-title">C4</h3> -->
+							<div class="card-label">C4 </div>
+							<div class="image-container">
+								<img src="../home/assets/c4.png" alt="Cinnamon and Leaf" >
+								<!-- <h3 class="item-title">C4</h3> -->
+							</div>
+							<!-- <p class="description"> Commercially popular, slightly thicker than C5. </p>
+							<button class="view-btn"><a href ="../product/shop-left.php">View</a></button> -->
+						</div>
+						
+					</div>
+				</div>
+				
+
+			</div>
+							
+			
+			<section class="ls s-py-0 c-gutter-0 container-px-0 text-center text-sm-left" >
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-12">
+							<h6 class="special-heading sub-title text-center"><span>KW INDUSTRIES</span></h6>
+							<h2 class="special-heading text-center" id="faq-title"> KW Industries FAQ</h2>
+							<div class="divider-50 hidden-below-md"></div>
+							<div class="divider-30 hidden-above-md"></div>
+						</div>
+					</div>
+					<div class="row" id="faq">
 						<div class="col-lg-6 py-xl-150 py-lg-130 py-md-90 py-60 ls ms">
 							<div class="content-center">
 								<div id="accordion01" role="tablist">
-									<h6 class="title-accordion">What is medical marijuana?</h6>
+									<h6 class="title-accordion">What is Cinnamon?</h6>
 									<div class="card">
 										<div class="card-header" role="tab" id="collapse01_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse01" aria-expanded="true" aria-controls="collapse01">
-													What does Your Company Consulting do?
+													What is Ceylon cinnamon and how is it different from other types?
 												</a>
 											</h5>
 										</div>
 
 										<div id="collapse01" class="collapse" role="tabpanel" aria-labelledby="collapse01_header" data-parent="#accordion01">
 											<div class="card-body">
-												<p>We help entrepreneurs get ready to raise capital. This usually consists of some or all of the following services:</p>
+												<p>Ceylon cinnamon, also known as "true cinnamon," is derived from the inner bark of the Cinnamomum verum tree, mainly grown in Sri Lanka. It is milder and sweeter in flavor compared to Cassia cinnamon, and contains much less coumarin, making it safer for regular consumption</p>
 											</div>
 										</div>
 									</div>
@@ -2132,13 +1411,14 @@
 										<div class="card-header" role="tab" id="collapse02_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse02" aria-expanded="false" aria-controls="collapse02">
-													What industries do you specialize in?
+												How do I store cinnamon to keep it fresh?
 												</a>
 											</h5>
 										</div>
 										<div id="collapse02" class="collapse" role="tabpanel" aria-labelledby="collapse02_header" data-parent="#accordion01">
 											<div class="card-body">
-												Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+											
+											Store cinnamon sticks or powder in an airtight container in a cool, dry place away from direct sunlight. Ground cinnamon should be used within 6 months to a year for the best flavor, while sticks can last up to 2–3 years
 											</div>
 										</div>
 									</div>
@@ -2147,13 +1427,13 @@
 										<div class="card-header" role="tab" id="collapse04_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse04" aria-expanded="false" aria-controls="collapse04">
-													Can you guarantee that our plan will raise capital?
+												Where is your cinnamon sourced from?
 												</a>
 											</h5>
 										</div>
 										<div id="collapse04" class="collapse" role="tabpanel" aria-labelledby="collapse04_header" data-parent="#accordion01">
 											<div class="card-body">
-												Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable sunt aliqua put a bird on it squid single-origin coffee shoreditch et.
+											Our cinnamon is sourced directly from Sri Lanka, the home of authentic Ceylon cinnamon, ensuring the highest quality and freshness in every batch
 											</div>
 										</div>
 									</div>
@@ -2162,13 +1442,13 @@
 										<div class="card-header" role="tab" id="collapse05_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse05" aria-expanded="false" aria-controls="collapse05">
-													What industries do you specialize in?
+												What is the recommended daily amount of cinnamon?
 												</a>
 											</h5>
 										</div>
 										<div id="collapse05" class="collapse" role="tabpanel" aria-labelledby="collapse05_header" data-parent="#accordion01">
 											<div class="card-body">
-												Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+											For adults, about 0.5 to 2 teaspoons (2–5 grams) of Ceylon cinnamon per day is considered safe. Avoid excessive consumption, especially of Cassia cinnamon, due to its higher coumarin content
 											</div>
 										</div>
 									</div>
@@ -2176,12 +1456,12 @@
 								</div>
 
 								<div id="accordion02" role="tablist">
-									<h6 class="title-accordion">What is medical marijuana used for?</h6>
+									<h6 class="title-accordion">What is Cinnamon used for?</h6>
 									<div class="card">
 										<div class="card-header" role="tab" id="collapse10_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse10" aria-expanded="true" aria-controls="collapse10">
-													What does Your Company Consulting do?
+												What are the main health benefits of cinnamon?
 												</a>
 											</h5>
 										</div>
@@ -2189,7 +1469,7 @@
 										<div id="collapse10" class="collapse" role="tabpanel" aria-labelledby="collapse10_header" data-parent="#accordion02">
 											<div class="card-body">
 
-												<p>We help entrepreneurs get ready to raise capital. This usually consists of some or all of the following services:</p>
+												<p>Cinnamon is rich in antioxidants, which help protect the body from oxidative damage caused by free radicals. It also has anti-inflammatory, antibacterial, and antifungal properties, making it beneficial for overall health and immune support</p>
 
 
 											</div>
@@ -2200,13 +1480,14 @@
 										<div class="card-header" role="tab" id="collapse11_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
-													What industries do you specialize in?
+												Can cinnamon help manage blood sugar levels?
 												</a>
 											</h5>
 										</div>
 										<div id="collapse11" class="collapse" role="tabpanel" aria-labelledby="collapse11_header" data-parent="#accordion02">
 											<div class="card-body">
-												Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+											
+											Yes, cinnamon has been shown to improve insulin sensitivity and lower blood sugar levels. It can slow the breakdown of carbohydrates in the digestive tract, which helps prevent spikes in blood sugar after meals. This makes it especially useful for people with type 2 diabetes
 											</div>
 										</div>
 									</div>
@@ -2215,13 +1496,14 @@
 										<div class="card-header" role="tab" id="collapse12_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse12" aria-expanded="false" aria-controls="collapse12">
-													Can you guarantee that our plan will raise capital?
+													Is cinnamon good for heart health?
 												</a>
 											</h5>
 										</div>
 										<div id="collapse12" class="collapse" role="tabpanel" aria-labelledby="collapse12_header" data-parent="#accordion02">
 											<div class="card-body">
-												Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable sunt aliqua put a bird on it squid single-origin coffee shoreditch et.
+											
+											Cinnamon may help reduce the risk of heart disease by lowering levels of LDL (bad) cholesterol and triglycerides, while maintaining or improving HDL (good) cholesterol. Its anti-inflammatory properties also contribute to cardiovascular health
 											</div>
 										</div>
 									</div>
@@ -2230,13 +1512,13 @@
 										<div class="card-header" role="tab" id="collapse13_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse13" aria-expanded="false" aria-controls="collapse13">
-													What industries do you specialize in?
+												How does cinnamon support digestive health?
 												</a>
 											</h5>
 										</div>
 										<div id="collapse13" class="collapse" role="tabpanel" aria-labelledby="collapse13_header" data-parent="#accordion02">
 											<div class="card-body">
-												Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+											Cinnamon has prebiotic properties that help restore the balance of good bacteria in the gut. It can also help ease digestive discomfort, reduce bloating, and is sometimes used to treat symptoms of irritable bowel syndrome
 											</div>
 										</div>
 									</div>
@@ -2250,16 +1532,16 @@
 
 						
 
-						<div class="ds col-lg-6 py-lg-0 py-md-90 py-60 faq-contact column-overlay d-flex align-items-center">
+						<div class="ds col-lg-6 py-lg-0 py-md-90 py-60 faq-contact column-overlay d-flex align-items-center" id="bg-contact">
 							<div class="content-center">
+						
 								<h4 class="special-heading text-center text-capitalize">Contact us</h4>
-								<p class="special-heading text-center">Have any Questions?Ask Us!</p>
+								<p id="question-p" class="special-heading text-center">Have any Questions? Ask Us!</p>
 								<div class="divider-50 hidden-below-md"></div>
 								<div class="divider-35 hidden-above-md"></div>
 
 								<div class="container">
-									<!-- <h2>Contact Us</h2> -->
-									<form id="contactForm" action="send_email.php" method="POST" novalidate>
+									<form id="contactForm" action="send_email.php" method="POST" >
 										<div class="form-group">
 											<label for="name">Name:</label>
 											<input type="text" id="name" name="name" required>
@@ -2275,339 +1557,158 @@
 											<textarea id="message" name="message" required></textarea>
 											<div class="error-message" id="messageError"></div>
 										</div>
-										<button type="submit">Send Message</button>
+										<div class="contact-submit">
+											<button type="submit">Send Message</button>
+										</div>
+										
 									</form>
 									<div id="formResponse"></div>
 								</div>
 							</div>
 						</div>
 					</div>
-				</section>
+				</div>
+			</section>
 
-				<section class="ls section-portfolio s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-150 s-pb-lg-130 s-pb-md-90 s-pb-60 text-center text-sm-left">
-					<div class="container">
-						<div class="row">
-							<div class="col-12">
-								<h6 class="special-heading sub-title text-center"><span>KW production</span></h6>
-								<h2 class="special-heading text-center">Photo Gallery</h2>
-								<div class="divider-50 hidden-below-md"></div>
-								<div class="divider-30 hidden-above-md"></div>
-							</div>
-						</div>
-						<div class="row isotope-wrapper portfolio masonry-layout c-gutter-10 c-mb-10">
-							<div class="col-md-6 corporate">
-								<div class="vertical-item item-gallery content-absolute text-center ">
-									<div class="item-media">
-										<img src="../images/cinnamon.jpeg" alt="img">
-									</div>
-									<div class="item-content">
-
-										<div class="icons-link">
-											<a class="link-zoom photoswipe-link" title="" href="../images/cinnamon.jpeg"><i class="fa fa-search-plus"></i></a>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-md-6 entertainment innovations">
-								<div class="vertical-item item-gallery content-absolute text-center">
-									<div class="item-media">
-										<img src="../images/cinnamon.jpeg" alt="img">
-									</div>
-									<div class="item-content">
-
-										<div class="icons-link">
-											<a class="link-zoom photoswipe-link" title="" href="../images/cinnamon.jpeg"><i class="fa fa-search-plus"></i></a>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3">
-								<div class="vertical-item item-gallery content-absolute text-center ">
-									<div class="item-media">
-										<img src="../images/cinnamon.jpeg" alt="img">
-									</div>
-									<div class="item-content">
-
-										<div class="icons-link">
-											<a class="link-zoom photoswipe-link" title="" href="../images/cinnamon.jpeg"><i class="fa fa-search-plus"></i></a>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3">
-								<div class="vertical-item item-gallery content-absolute text-center ">
-									<div class="item-media">
-										<img src="../images/cinnamon.jpeg" alt="img">
-									</div>
-									<div class="item-content">
-
-										<div class="icons-link">
-											<a class="link-zoom photoswipe-link" title="" href="../images/cinnamon.jpeg"><i class="fa fa-search-plus"></i></a>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-6 entertainment innovations">
-								<div class="vertical-item item-gallery content-absolute text-center">
-									<div class="item-media">
-										<img src="../images/cinnamon.jpeg" alt="img">
-									</div>
-									<div class="item-content">
-
-										<div class="icons-link">
-											<a class="link-zoom photoswipe-link" title="" href="../images/cinnamon.jpeg"><i class="fa fa-search-plus"></i></a>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-6 entertainment innovations">
-								<div class="vertical-item item-gallery content-absolute text-center">
-									<div class="item-media">
-										<img src="../images/cinnamon.jpeg" alt="img">
-									</div>
-									<div class="item-content">
-
-										<div class="icons-link">
-											<a class="link-zoom photoswipe-link" title="" href="../images/cinnamon.jpeg"><i class="fa fa-search-plus"></i></a>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-md-3">
-								<div class="vertical-item item-gallery content-absolute text-center ">
-									<div class="item-media">
-										<img src="../images/cinnamon.jpeg" alt="img">
-									</div>
-									<div class="item-content">
-
-										<div class="icons-link">
-											<a class="link-zoom photoswipe-link" title="" href="../images/cinnamon.jpeg"><i class="fa fa-search-plus"></i></a>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3">
-								<div class="vertical-item item-gallery content-absolute text-center ">
-									<div class="item-media">
-										<img src="../images/cinnamon.jpeg" alt="img">
-									</div>
-									<div class="item-content">
-
-										<div class="icons-link">
-											<a class="link-zoom photoswipe-link" title="" href="../images/cinnamon.jpeg"><i class="fa fa-search-plus"></i></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-
-			
-
-				<section class="ds s-overlay section-subscribe s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-150 s-pb-lg-130 s-pb-md-90 s-pb-60 text-center text-center">
-					<div class="container">
-						<span class="social-icons">
-							<a href="#" class="fab fab fa-facebook-f light-bg bg-icon rounded-icon" title="facebook"></a>
-							<a href="#" class="fab fa-telegram-plane bg-icon rounded-icon" title="telegram"></a>
-							<a href="#" class="fab fa-linkedin-in bg-icon rounded-icon" title="linkedin"></a>
-							<a href="#" class="fab fa-instagram bg-icon rounded-icon" title="instagram"></a>
-							<a href="#" class="fab fa-youtube bg-icon rounded-icon" title="youtube"></a>
-						</span>
-					</div>
-				</section>
-
-				<section class="ls blog-section s-pt-xl-135 s-pt-lg-115 s-pt-md-75 s-pt-55 s-pb-xl-145 s-pb-lg-125 s-pb-md-85 s-pb-55">
-					<div class="container">
-						<div class="row">
-							<div class="col-12">
-								<h2 class="special-heading text-center">Marijuana Blog</h2>
-								<p class="special-heading text-center big">
-									From brownies to medicated muscle creams, you can find cannabis concentrates in hundreds of products
-								</p>
-								<div class="divider-60 hidden-below-md"></div>
-								<div class="divider-40 hidden-above-md"></div>
-								<div class="owl-carousel blog-carousel" data-center="false" data-nav="false" data-margin="60" data-loop="true" data-responsive-lg="3" data-responsive-md="2" data-responsive-sm="1" data-responsive-xs="1">
-									<article class="vertical-item text-center">
-										<div class="item-media post-thumbnail">
-											<a href="blog-single-right.html">
-												<img src="../images/blog/slide1.jpg" alt="img">
-											</a>
-										</div><!-- .post-thumbnail -->
-										<div class="item-content">
-											<header class="entry-header">
-												<div class="cat-links">
-													<a href="blog-right.html" rel="category tag">
-														medical
-													</a>
-												</div>
-												<h6 class="entry-title">
-													<a href="blog-single-right.html" rel="bookmark">
-														Concentrates are products made from the cannabis plant.
-													</a>
-												</h6>
-											</header>
-											<footer class="entry-footer">
-												<div class="byline">
-													<a href="blog-single-right.html" rel="bookmark">
-														<time class="entry-date published updated" datetime="2018-03-18T15:15:12+00:00">
-															<i class="far fa-clock"></i>
-															02 Jan 19
-														</time>
-													</a>
-													<div class="author vcard">
-														<i class="far fa-user"></i>
-														<a class="url color-main2 fn n" href="blog-right.html">Steave Watson</a>
-													</div>
-												</div>
-											</footer>
-										</div>
-									</article>
-									<article class="vertical-item text-center">
-										<div class="item-media post-thumbnail">
-											<a href="blog-single-right.html">
-												<img src="../images/blog/slide2.jpg" alt="img">
-											</a>
-										</div><!-- .post-thumbnail -->
-										<div class="item-content">
-											<header class="entry-header">
-												<div class="cat-links">
-													<a href="blog-right.html" rel="category tag">
-														Health
-													</a>
-												</div>
-												<h6 class="entry-title">
-													<a href="blog-single-right.html" rel="bookmark">
-														Cannabis Concentrates Guide: THC Oils, Wax, Shatter & Dabs.
-													</a>
-												</h6>
-											</header>
-											<footer class="entry-footer">
-												<div class="byline">
-													<a href="blog-single-right.html" rel="bookmark">
-														<time class="entry-date published updated" datetime="2018-03-18T15:15:12+00:00">
-															<i class="far fa-clock"></i>
-															02 Jan 19
-														</time>
-													</a>
-													<div class="author vcard">
-														<i class="far fa-user"></i>
-														<a class="url color-main2 fn n" href="blog-right.html">Steave Watson</a>
-													</div>
-												</div>
-											</footer>
-										</div>
-									</article>
-									<article class="vertical-item text-center">
-										<div class="item-media post-thumbnail">
-											<a href="blog-single-right.html">
-												<img src="../images/blog/slide3.jpg" alt="img">
-											</a>
-										</div><!-- .post-thumbnail -->
-										<div class="item-content">
-											<header class="entry-header">
-												<div class="cat-links">
-													<a href="blog-right.html" rel="category tag">
-														Science
-													</a>
-												</div>
-												<h6 class="entry-title">
-													<a href="blog-single-right.html" rel="bookmark">
-														Prohibitions Influence On The Legal System.
-													</a>
-												</h6>
-											</header>
-											<footer class="entry-footer">
-												<div class="byline">
-													<a href="blog-single-right.html" rel="bookmark">
-														<time class="entry-date published updated" datetime="2018-03-18T15:15:12+00:00">
-															<i class="far fa-clock"></i>
-															02 Jan 19
-														</time>
-													</a>
-													<div class="author vcard">
-														<i class="far fa-user"></i>
-														<a class="url color-main2 fn n" href="blog-right.html">Steave Watson</a>
-													</div>
-												</div>
-											</footer>
-										</div>
-									</article>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-
-			<!-- <section class="ls testimonials-section s-pt-xl-135 s-pt-lg-115 s-pt-md-75 s-pt-55 s-pb-xl-145 s-pb-lg-125 s-pb-md-85 s-pb-55">
+			<!-- <section class="ls section-portfolio s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-150 s-pb-lg-130 s-pb-md-90 s-pb-60 text-center text-sm-left">
 				<div class="container">
 					<div class="row">
 						<div class="col-12">
-							<h2 class="special-heading text-center">What Our Clients Say</h2>
-							<p class="special-heading text-center big">
-								From brownies to medicated muscle creams, you can find cannabis concentrates in hundreds of products
-							</p>
-							<div class="divider-60 hidden-below-md"></div>
-							<div class="divider-40 hidden-above-md"></div>
-							<div class="owl-carousel quote-carousel" data-center="false" data-nav="false" data-margin="60" data-loop="true" data-responsive-lg="3" data-responsive-md="2" data-responsive-sm="1" data-responsive-xs="1">
-								<div class="quote-item">
-									<blockquote>
-										<p>
-											<em>
-												It can also help incRease the potency of your flower. The next time you pack a bowl with cannabis flower.
-											</em>
-										</p>
-									</blockquote>
-									<div class="quote-image">
-										<img src="../images/team/testimonial1.jpg" alt="">
-									</div>
-									<div class="quote-title">
-										<p>
-											Steave Watson
-										</p>
-									</div>
+							<h6 class="special-heading sub-title text-center"><span>KW production</span></h6>
+							<h2 class="special-heading text-center" id="faq-title">Photo Gallery</h2>
+							<div class="divider-50 hidden-below-md"></div>
+							<div class="divider-30 hidden-above-md"></div>
+						</div>
+					</div>
+					<div class="row isotope-wrapper portfolio masonry-layout c-gutter-10 c-mb-10">
+						<div class="col-md-6 corporate">
+							<div class="vertical-item item-gallery content-absolute text-center ">
+								<div class="item-media">
+									<img src="../home/assets/gal1.jpg" alt="img">
 								</div>
-								<div class="quote-item">
-									<blockquote>
-										<p>
-											<em>
-												It can also help incRease the potency of your flower. The next time you pack a bowl with cannabis flower.
-											</em>
-										</p>
-									</blockquote>
-									<div class="quote-image">
-										<img src="../images/team/testimonial2.jpg" alt="">
-									</div>
-									<div class="quote-title">
-										<p>
-											Steave Watson
-										</p>
-									</div>
-								</div>
-								<div class="quote-item">
-									<blockquote>
-										<p>
-											<em>
-												It can also help incRease the potency of your flower. The next time you pack a bowl with cannabis flower.
-											</em>
-										</p>
-									</blockquote>
-									<div class="quote-image">
-										<img src="../images/team/testimonial3.jpg" alt="">
-									</div>
-									<div class="quote-title">
-										<p>
-											Steave Watson
-										</p>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-1.jpg"><i class="fa fa-search-plus"></i></a>
 									</div>
 								</div>
 							</div>
 						</div>
+
+						<div class="col-md-6 entertainment innovations">
+							<div class="vertical-item item-gallery content-absolute text-center">
+								<div class="item-media">
+									<img src="../home/assets/gal-2.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-2.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="vertical-item item-gallery content-absolute text-center ">
+								<div class="item-media">
+									<img src="../home/assets/gal-3.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-3.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="vertical-item item-gallery content-absolute text-center ">
+								<div class="item-media">
+									<img src="../home/assets/gal-4.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-4.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="vertical-item item-gallery content-absolute text-center">
+								<div class="item-media">
+									<img src="../home/assets/gal-5.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-5.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 entertainment innovations">
+							<div class="vertical-item item-gallery content-absolute text-center">
+								<div class="item-media">
+									<img src="../home/assets/gal-6.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-6.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-md-3 ">
+							<div class="vertical-item item-gallery content-absolute text-center ">
+								<div class="item-media">
+									<img src="../home/assets/gal-7.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-7.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 entertainment innovations">
+							<div class="vertical-item item-gallery content-absolute text-center">
+								<div class="item-media">
+									<img src="../home/assets/gal-8.jpg" alt="img">
+								</div>
+								<div class="item-content">
+
+									<div class="icons-link">
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-8.jpg"><i class="fa fa-search-plus"></i></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						
+						
 					</div>
 				</div>
 			</section> -->
+
+		
+
+			<section class="ds s-overlay section-subscribe s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-150 s-pb-lg-130 s-pb-md-90 s-pb-60 text-center text-center" id="social-container">
+				<div class="container" >
+					<h4 class="cnct">Connect with Us!</h4>
+					<p class="follow-color">Follow us for New Updates</p><br><br>
+					<span class="social-i5cons" >
+						<a href="#" class="fab fab fa-facebook-f light-bg bg-icon rounded-icon" title="facebook"></a>
+						<a href="#" class="fab fa-telegram-plane bg-icon rounded-icon" title="telegram"></a>
+						<a href="#" class="fab fa-linkedin-in bg-icon rounded-icon" title="linkedin"></a>
+						<a href="#" class="fab fa-instagram bg-icon rounded-icon" title="instagram"></a>
+						<a href="#" class="fab fa-youtube bg-icon rounded-icon" title="youtube"></a>
+					</span>
+				</div>
+			</section>
 
 			<section class="ds delivery-section s-overlay mobile-overlay s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-150 s-pb-lg-130 s-pb-md-90 s-pb-60 text-center text-sm-left">
 				<div class="container">
@@ -2654,7 +1755,6 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-7">
-							<!-- <div id="map-vector"></div> -->
 						
 							<iframe
 								src="https://www.google.com/maps?q=No.33/4+Mudduwa+Road,+Rathnapura,+Sri+Lanka&output=embed"
@@ -2817,10 +1917,10 @@
 			</section>
 
 
-		</div><!-- eof #box_wrapper -->
-	</div><!-- eof #canvas -->
+		</div>
+	</div>
 
-
+	
 	<script src="../js/compressed.js"></script>
 	<script src="../js/main.js"></script>
 	<script src="../home/script.js"></script>

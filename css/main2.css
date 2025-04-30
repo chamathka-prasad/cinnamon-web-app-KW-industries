@@ -20265,6 +20265,7 @@ a.fab {
 	margin-left: 8px;
 	margin-right: 8px;
 	text-align: center;
+	/* color: #74af2c; */
 }
 
 a.fab.bg-icon,
@@ -20306,22 +20307,22 @@ a[class*='fa-'].rounded-icon {
 /*social icons brand colors*/
 a.color-icon.fa-500px,
 a[class*="fa-"].fa-500px:hover {
-	color: #0099e5;
+	/* color: #0099e5; */
 }
 
 a.color-icon.fa-adn,
 a[class*="fa-"].fa-adn:hover {
-	color: #4a484c;
+	/* color: #4a484c; */
 }
 
 a.color-icon.fa-amazon,
 a[class*="fa-"].fa-amazon:hover {
-	color: #f90;
+	/* color: #f90; */
 }
 
 a.color-icon.fa-android,
 a[class*="fa-"].fa-android:hover {
-	color: #a4c639;
+	/* color: #a4c639; */
 }
 
 a.color-icon.fa-angellist,
@@ -20331,27 +20332,27 @@ a[class*="fa-"].fa-angellist:hover {
 
 a.color-icon.fa-apple,
 a[class*="fa-"].fa-apple:hover {
-	color: #979797;
+	/* color: #979797; */
 }
 
 a.color-icon.fa-behance-square,
 a[class*="fa-"].fa-behance-square:hover {
-	color: #1769ff;
+	/* color: #1769ff; */
 }
 
 a.color-icon.fa-behance,
 a[class*="fa-"].fa-behance:hover {
-	color: #1769ff;
+	/* color: #1769ff; */
 }
 
 a.color-icon.fa-bitbucket-square,
 a[class*="fa-"].fa-bitbucket-square:hover {
-	color: #205081;
+	/* color: #205081; */
 }
 
 a.color-icon.fa-bitbucket,
 a[class*="fa-"].fa-bitbucket:hover {
-	color: #205081;
+	/* color: #205081; */
 }
 
 a.color-icon.fa-bitcoin,
@@ -26649,7 +26650,7 @@ img.absolute_image {
 }
 
 .fw-team-template-default.single .side-item .item-content .social-icons a.fab {
-	color: #7a998c;
+	/* color: #7a998c; */
 	margin-left: 0;
 	margin-right: 26px;
 }
