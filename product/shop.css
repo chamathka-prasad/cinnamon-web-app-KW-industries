@@ -175,11 +175,11 @@
 .products .product .producthead{
 	font-size: 20px;              /* or 24px for more emphasis */
 	font-weight: 700;             /* bold */
-	color: #07a763;               /* deep neutral tone */
+	color: #AA5600;               /* deep neutral tone */
 	text-transform: uppercase;    /* makes it all caps */
 	letter-spacing: 1px;          /* spacing between letters */
 	margin-bottom: 30px;          /* space below the heading */
-	border-bottom: 2px solid #07a763; /* subtle underline effect */
+	border-bottom: 2px solid #AA5600; /* subtle underline effect */
 	padding-bottom: 5px;
 }
 
@@ -1374,7 +1374,7 @@ h3#order_review_heading {
   }
   
   .woocommerce-Price-amount.amount span:last-child {
-	color: #C6842C; /* Adds a red color for the Color for emphasis */
+	color: #AA5600 ; /* Adds a red color for the Color for emphasis */
   }
   
 
