@@ -1078,15 +1078,15 @@
 						</div>
 					</div>
 					<div class="about-right">
-						<div class="about-image-wrapper" id="about-video-wrapper">
-							<img src="../home/assets/cinnamon.jpeg" alt="Cinnamon rolls">
-						<div class="play-icon" id="play-icon"></div>
+						<div class="about-image-wrapper" >
+							<img src="../home/assets/about.jpg" alt="Cinnamon rolls">
+						<!-- <div class="play-icon" id="play-icon"></div> -->
 						</div>
 					</div>
 				</div>
 			</section>
 
-			<script>
+			<!-- <script>
 				document.addEventListener('DOMContentLoaded', function() {
 					var playIcon = document.getElementById('play-icon');
 					playIcon.addEventListener('click', function() {
@@ -1099,7 +1099,7 @@
 					`;
 					});
     			});
-  			</script>
+  			</script> -->
 
 			<section class="ls section-portfolio s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-150 s-pb-lg-130 s-pb-md-90 s-pb-60 text-center text-sm-left" id="gal">
 				<div class="container">
