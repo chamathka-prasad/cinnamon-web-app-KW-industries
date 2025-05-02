@@ -919,7 +919,7 @@
 
 
 								</li>
-								<li class="ds cover-image s-overlay text-left">
+								<li class="ds cover-image s-overlay text-left ">
 									<video 
 										class="slider-video"
 										src="../home/assets/cinnamon-powder-falling.mp4"
@@ -1002,9 +1002,9 @@
 			</div>
 
 			<!-- PANAGOLISH-->
-			<section class="ls  s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-140 s-pb-lg-120 s-pb-md-80 s-pb-50 text-center text-sm-left">
-				<div class="container">
-					<div class="row c-gutter-0">
+			<section class="ls  s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-140 s-pb-lg-120 s-pb-md-80 s-pb-50 text-center text-sm-left ">
+				<div class="container ">
+					<div class="row c-gutter-0 ">
 						<div class="col-12">
 							<h6 class="special-heading sub-title text-center"><span>KW production</span></h6>
 							<h2 class="special-heading text-center">Popular Products</h2>

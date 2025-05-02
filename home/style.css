@@ -20,8 +20,43 @@ h1, h2, h3, h4, h5, h6, .font-montserrat {
     font-family: "Montserrat", sans-serif;
   }
 
+/*  */
+  /* @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(40px) scale(0.96);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+  }
+  
+  .section-pop {
+    opacity: 0;
+    will-change: opacity, transform;
+  }
+  
+  .section-pop.pop-animate {
+    animation: fadeInUp 0.7s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+  } */
 
+  /* Initial state: hidden and shifted down */
+.scroll-pop {
+  opacity: 0;
+  transform: translateY(40px) scale(0.96);
+  transition: opacity 0.4s, transform 0.6s;
+  will-change: opacity, transform;
+}
 
+/* Animated state: visible and in place */
+.scroll-pop.scrolled-in {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  transition: opacity 0.4s, transform 0.6s;
+}
+
+  /*  */
 .gold-small {
     font-size: 50px;
 }
@@ -781,10 +816,6 @@ video::-webkit-media-controls-start-playback-button {
 
 } 
 
-
-
-
-
     
 @keyframes gradientAnimation {
   0% {
@@ -799,25 +830,7 @@ video::-webkit-media-controls-start-playback-button {
         
 }
 
-@media (min-width: 768px) {
-  .grid-container {
-    grid-template-columns: repeat(3, 1fr);
-  }
 
-  .grid-item{
-    width: 100%;
-    max-width: 400px;
-    /* max-height: 80%; */
-    margin-bottom: 20%;
-    text-align: center;
-    position: relative;
-    transition: all 0.3s ease;
-    font-size: 18px; 
-    font-weight: 500; 
-    box-shadow: 0 4px 16px 0 #000000, 0 0 0 4px rgba(0,0,0,0.1); /* Black shadow on all sides */
-  }
-    
-}
 
 .grid-item {
   width: 100%;
@@ -827,7 +840,13 @@ video::-webkit-media-controls-start-playback-button {
   transition: all 0.3s ease;
   font-size: 18px; 
   font-weight: 500; 
-  box-shadow: 0 4px 16px 0 #000000, 0 0 0 4px rgba(0,0,0,0.1); /* Black shadow on all sides */
+  box-shadow: 0 4px 16px 0 #000000, 0 0 0 4px rgba(0,0,0,0.1); 
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 @media(max-width:299px){
@@ -841,7 +860,7 @@ video::-webkit-media-controls-start-playback-button {
     transition: all 0.3s ease;
     font-size: 18px; 
     font-weight: 500; 
-    box-shadow: 0 4px 16px 0 #000000, 0 0 0 4px rgba(0,0,0,0.1); /* Black shadow on all sides */
+    box-shadow: 0 4px 16px 0 #000000, 0 0 0 4px rgba(0,0,0,0.1); 
   }
 }
 
@@ -853,7 +872,7 @@ video::-webkit-media-controls-start-playback-button {
   transition: all 0.3s ease;
   font-size: 18px; 
   font-weight: 500; 
-  box-shadow: 0 4px 16px 0 #000000, 0 0 0 4px rgba(0,0,0,0.1); /* Black shadow on all sides */
+  box-shadow: 0 4px 16px 0 #000000, 0 0 0 4px rgba(0,0,0,0.1); 
 }
 .grid-item .description{
   color: #000000;

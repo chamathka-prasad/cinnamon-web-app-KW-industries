@@ -10914,7 +10914,11 @@ body.boxed {
 
 .ds a.bg-icon {
 	background-color: #fff;
-	color: #07322d;
+	color: #401f00;
+}
+.ds a.bg-icon :hover{
+	background-color: #401f00;
+	color: #fff;
 }
 
 .ds .fa.color-icon:hover {
@@ -10936,6 +10940,8 @@ body.boxed {
 .ds {
 	/* shop */
 }
+
+
 
 .ds .list-bordered li {
 	border-color: #7a998c;
@@ -18957,6 +18963,11 @@ aside > * + * {
 	position: relative;
 }
 
+.ds textarea {
+	color: #000;
+    background-color: #401f00;
+    opacity: 0.7;
+}
 .widget > h3,
 .widget .widget-title {
 	font-size: 30px;
