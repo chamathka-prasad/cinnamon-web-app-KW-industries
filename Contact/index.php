@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 <head>
-	<title>KW Industries - About Us</title>
+	<title>KW Industries - Contact Us</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -43,33 +43,34 @@
 	</div>
 
     <div id="header"></div>
-    <section class="ls s-py-0 c-gutter-0 container-px-0 text-center text-sm-left">
-				<div class="container-fluid" id="faq">
+    
+    <section class="ls s-py-0 c-gutter-0 container-px-0 text-center text-sm-left" >
+				<div class="container-fluid">
 					<div class="row">
 						<div class="col-12">
 							<h6 class="special-heading sub-title text-center"><span>KW INDUSTRIES</span></h6>
-							<h2 class="special-heading text-center"> KW Industries FAQ</h2>
+							<h2 class="special-heading text-center" id="faq-title"> FAQ</h2>
 							<div class="divider-50 hidden-below-md"></div>
 							<div class="divider-30 hidden-above-md"></div>
 						</div>
 					</div>
-					<div class="row ">
+					<div class="row" id="faq">
 						<div class="col-lg-6 py-xl-150 py-lg-130 py-md-90 py-60 ls ms">
 							<div class="content-center">
 								<div id="accordion01" role="tablist">
-									<h6 class="title-accordion">What is medical marijuana?</h6>
+									<h6 class="title-accordion">What is Cinnamon?</h6>
 									<div class="card">
 										<div class="card-header" role="tab" id="collapse01_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse01" aria-expanded="true" aria-controls="collapse01">
-													What does Your Company Consulting do?
+													What is Ceylon cinnamon and how is it different from other types?
 												</a>
 											</h5>
 										</div>
 
 										<div id="collapse01" class="collapse" role="tabpanel" aria-labelledby="collapse01_header" data-parent="#accordion01">
 											<div class="card-body">
-												<p>We help entrepreneurs get ready to raise capital. This usually consists of some or all of the following services:</p>
+												<p>Ceylon cinnamon, also known as "true cinnamon," is derived from the inner bark of the Cinnamomum verum tree, mainly grown in Sri Lanka. It is milder and sweeter in flavor compared to Cassia cinnamon, and contains much less coumarin, making it safer for regular consumption</p>
 											</div>
 										</div>
 									</div>
@@ -78,13 +79,14 @@
 										<div class="card-header" role="tab" id="collapse02_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse02" aria-expanded="false" aria-controls="collapse02">
-													What industries do you specialize in?
+												How do I store cinnamon to keep it fresh?
 												</a>
 											</h5>
 										</div>
 										<div id="collapse02" class="collapse" role="tabpanel" aria-labelledby="collapse02_header" data-parent="#accordion01">
 											<div class="card-body">
-												Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+											
+											Store cinnamon sticks or powder in an airtight container in a cool, dry place away from direct sunlight. Ground cinnamon should be used within 6 months to a year for the best flavor, while sticks can last up to 2–3 years
 											</div>
 										</div>
 									</div>
@@ -93,13 +95,13 @@
 										<div class="card-header" role="tab" id="collapse04_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse04" aria-expanded="false" aria-controls="collapse04">
-													Can you guarantee that our plan will raise capital?
+												Where is your cinnamon sourced from?
 												</a>
 											</h5>
 										</div>
 										<div id="collapse04" class="collapse" role="tabpanel" aria-labelledby="collapse04_header" data-parent="#accordion01">
 											<div class="card-body">
-												Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable sunt aliqua put a bird on it squid single-origin coffee shoreditch et.
+											Our cinnamon is sourced directly from Sri Lanka, the home of authentic Ceylon cinnamon, ensuring the highest quality and freshness in every batch
 											</div>
 										</div>
 									</div>
@@ -108,13 +110,13 @@
 										<div class="card-header" role="tab" id="collapse05_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse05" aria-expanded="false" aria-controls="collapse05">
-													What industries do you specialize in?
+												What is the recommended daily amount of cinnamon?
 												</a>
 											</h5>
 										</div>
 										<div id="collapse05" class="collapse" role="tabpanel" aria-labelledby="collapse05_header" data-parent="#accordion01">
 											<div class="card-body">
-												Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+											For adults, about 0.5 to 2 teaspoons (2–5 grams) of Ceylon cinnamon per day is considered safe. Avoid excessive consumption, especially of Cassia cinnamon, due to its higher coumarin content
 											</div>
 										</div>
 									</div>
@@ -122,12 +124,12 @@
 								</div>
 
 								<div id="accordion02" role="tablist">
-									<h6 class="title-accordion">What is medical marijuana used for?</h6>
+									<h6 class="title-accordion">What is Cinnamon used for?</h6>
 									<div class="card">
 										<div class="card-header" role="tab" id="collapse10_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse10" aria-expanded="true" aria-controls="collapse10">
-													What does Your Company Consulting do?
+												What are the main health benefits of cinnamon?
 												</a>
 											</h5>
 										</div>
@@ -135,7 +137,7 @@
 										<div id="collapse10" class="collapse" role="tabpanel" aria-labelledby="collapse10_header" data-parent="#accordion02">
 											<div class="card-body">
 
-												<p>We help entrepreneurs get ready to raise capital. This usually consists of some or all of the following services:</p>
+												<p>Cinnamon is rich in antioxidants, which help protect the body from oxidative damage caused by free radicals. It also has anti-inflammatory, antibacterial, and antifungal properties, making it beneficial for overall health and immune support</p>
 
 
 											</div>
@@ -146,13 +148,14 @@
 										<div class="card-header" role="tab" id="collapse11_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
-													What industries do you specialize in?
+												Can cinnamon help manage blood sugar levels?
 												</a>
 											</h5>
 										</div>
 										<div id="collapse11" class="collapse" role="tabpanel" aria-labelledby="collapse11_header" data-parent="#accordion02">
 											<div class="card-body">
-												Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+											
+											Yes, cinnamon has been shown to improve insulin sensitivity and lower blood sugar levels. It can slow the breakdown of carbohydrates in the digestive tract, which helps prevent spikes in blood sugar after meals. This makes it especially useful for people with type 2 diabetes
 											</div>
 										</div>
 									</div>
@@ -161,13 +164,14 @@
 										<div class="card-header" role="tab" id="collapse12_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse12" aria-expanded="false" aria-controls="collapse12">
-													Can you guarantee that our plan will raise capital?
+													Is cinnamon good for heart health?
 												</a>
 											</h5>
 										</div>
 										<div id="collapse12" class="collapse" role="tabpanel" aria-labelledby="collapse12_header" data-parent="#accordion02">
 											<div class="card-body">
-												Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable sunt aliqua put a bird on it squid single-origin coffee shoreditch et.
+											
+											Cinnamon may help reduce the risk of heart disease by lowering levels of LDL (bad) cholesterol and triglycerides, while maintaining or improving HDL (good) cholesterol. Its anti-inflammatory properties also contribute to cardiovascular health
 											</div>
 										</div>
 									</div>
@@ -176,13 +180,13 @@
 										<div class="card-header" role="tab" id="collapse13_header">
 											<h5>
 												<a class="collapsed" data-toggle="collapse" href="#collapse13" aria-expanded="false" aria-controls="collapse13">
-													What industries do you specialize in?
+												How does cinnamon support digestive health?
 												</a>
 											</h5>
 										</div>
 										<div id="collapse13" class="collapse" role="tabpanel" aria-labelledby="collapse13_header" data-parent="#accordion02">
 											<div class="card-body">
-												Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+											Cinnamon has prebiotic properties that help restore the balance of good bacteria in the gut. It can also help ease digestive discomfort, reduce bloating, and is sometimes used to treat symptoms of irritable bowel syndrome
 											</div>
 										</div>
 									</div>
@@ -196,16 +200,16 @@
 
 						
 
-						<div class="ds col-lg-6 py-lg-0 py-md-90 py-60 faq-contact column-overlay d-flex align-items-center">
+						<div class="ds col-lg-6 py-lg-0 py-md-90 py-60 faq-contact column-overlay d-flex align-items-center" id="bg-contact">
 							<div class="content-center">
+						
 								<h4 class="special-heading text-center text-capitalize">Contact us</h4>
-								<p class="special-heading text-center">Have any Questions?Ask Us!</p>
+								<p id="question-p" class="special-heading text-center">Have any Questions? Ask Us!</p>
 								<div class="divider-50 hidden-below-md"></div>
 								<div class="divider-35 hidden-above-md"></div>
 
 								<div class="container">
-									<!-- <h2>Contact Us</h2> -->
-									<form id="contactForm" action="send_email.php" method="POST" novalidate>
+									<form id="contactForm" action="send_email.php" method="POST" >
 										<div class="form-group">
 											<label for="name">Name:</label>
 											<input type="text" id="name" name="name" required>
@@ -221,22 +225,27 @@
 											<textarea id="message" name="message" required></textarea>
 											<div class="error-message" id="messageError"></div>
 										</div>
-										<button type="submit">Send Message</button>
+										<div class="contact-submit">
+											<button type="submit">Send Message</button>
+										</div>
+										
 									</form>
 									<div id="formResponse"></div>
 								</div>
 							</div>
 						</div>
 					</div>
-				</section>
+				</div>
+			</section>
+
                 <br><br>
-    <footer class="page_footer text-center text-sm-left  ds ms s-pt-60 s-pb-60 s-pt-md-85 s-pb-md-90 s-pt-lg-125 s-pb-lg-130 s-pt-xl-150 s-pb-xl-145 c-gutter-30 s-parallax c-mb-50 c-mb-lg-0">
+                <footer class="page_footer text-center text-sm-left  ds ms s-pt-60 s-pb-60 s-pt-md-85 s-pb-md-90 s-pt-lg-125 s-pb-lg-130 s-pt-xl-150 s-pb-xl-145 c-gutter-30 s-parallax c-mb-50 c-mb-lg-0">
 				<div class="container">
 					<div class="row justify-content-center">
 
 						<div class="col-lg-4 col-md-6  animate" data-animation="fadeInUp">
 							<a href="./" class="logo">
-								<img src="../images/kwlogo.png" alt="">
+								<img src="/Cinnamon/images/kwlogo.png" alt="">
 								<span class="d-flex flex-column">
 									<span class="logo-text color-darkgrey">KW Industries</span>
 									<span class="logo-subtext">PANAGOLISH</span>
@@ -325,12 +334,20 @@
   async function loadComponent(id, url) {
     const response = await fetch(url);
     const content = await response.text();
-    document.getElementById(id).innerHTML = content;
+    const el = document.getElementById(id);
+    if (el) {
+      el.innerHTML = content;
+    } else {
+      console.warn(`Element with id '${id}' not found`);
+    }
   }
 
-  loadComponent('header', '../header.php');
-  loadComponent('footer', '../footer.php');
+  document.addEventListener("DOMContentLoaded", () => {
+    loadComponent('header', '../header.php');
+    loadComponent('footer', '../footer.php');
+  });
 </script>
+
 
 </body>
 

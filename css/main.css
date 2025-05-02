@@ -10406,7 +10406,7 @@ body.boxed {
 .ls h4,
 .ls h5,
 .ls h6 {
-	color: #073220;
+	color: #aa5600;
 }
 
 .ls h1 a,
@@ -23647,12 +23647,12 @@ a.logo img {
 
 a.logo .logo-text {
 	font-family: "Playfair Display", serif;
-	font-size: 30px;
+	font-size: 28px;
 	font-weight: 700;
 	line-height: 1.1;
 	text-indent: 12px;
 	text-transform: uppercase;
-	letter-spacing: 2px;
+	
 }
 
 @media (max-width: 575px) {
@@ -23662,10 +23662,10 @@ a.logo .logo-text {
 }
 
 a.logo .logo-subtext {
-	color: black;
+	color: white;
 	font-size: 11px;
 	font-weight: 700;
-	letter-spacing: 22px;
+	letter-spacing: 17px;
 	padding: 0 10px;
 	text-transform: uppercase;
 }
@@ -26398,7 +26398,7 @@ img.absolute_image {
 }
 
 .faq-contact {
-	background: url("../images/fq_bg.jpg") no-repeat center/cover;
+	background-color: #1f4b27 ;
 }
 
 .testimonials-section {
