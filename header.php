@@ -19,7 +19,7 @@
 
 
 									<li>
-										<a href="index.html">Home</a>
+										<a href="../home">Home</a>
 										<!-- <ul>
 											<li>
 												<a href="index.html">MultiPage</a>
@@ -38,7 +38,7 @@
 									</li>
 
 									<li>
-										<a href="about.html">Pages</a>
+										<a href="#">Pages</a>
 										<ul>
 
 
@@ -48,7 +48,7 @@
 
 
 											<li>
-												<a href="pricing.html">Pricing</a>
+												<a href="../Product">Pricing</a>
 											</li>
 
 
@@ -58,11 +58,11 @@
 										
 
 											<li>
-												<a href="team.html">Team</a>
+												<a href="#">Team</a>
 											</li>
 
 											<li>
-												<a href="#faq">FAQ</a>
+												<a href="../Contact">FAQ</a>
 												
 											</li>
 										
@@ -75,14 +75,14 @@
 
 									<!-- shop -->
 									<li>
-										<a href="shop-right.html">Products</a>
+										<a href="../Product">Products</a>
 									
 									</li>
 									<!-- eof shop -->
 
 									<!-- contacts -->
 									<li>
-										<a href="#faq">Contact Us</a>
+										<a href="../Contact">Contact Us</a>
 									</li>
 									<!-- eof contacts -->
 								</ul>
