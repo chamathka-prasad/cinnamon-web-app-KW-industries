@@ -723,13 +723,15 @@ select,
 	border-bottom: 1px solid #e4ebe8;
 	border-radius: 0;
 	box-shadow: none;
-	color: #7a998c;
+	color: #ffffff;
 	font-size: 16px;
 	font-weight: 400;
 	line-height: 30px;
 	padding: 0 0 1px 1px;
 	width: 100%;
 }
+
+
 
 input[disabled] {
 	cursor: not-allowed;
@@ -10394,7 +10396,7 @@ body.boxed {
 */
 .ls {
 	background-color: #fff;
-	color: #7a998c;
+	color: #401f00;
 }
 
 .ls h1,
@@ -10912,7 +10914,11 @@ body.boxed {
 
 .ds a.bg-icon {
 	background-color: #fff;
-	color: #07322d;
+	color: #401f00;
+}
+.ds a.bg-icon :hover{
+	background-color: #401f00;
+	color: #fff;
 }
 
 .ds .fa.color-icon:hover {
@@ -10935,6 +10941,8 @@ body.boxed {
 	/* shop */
 }
 
+
+
 .ds .list-bordered li {
 	border-color: #7a998c;
 }
@@ -10951,8 +10959,18 @@ body.boxed {
 .ds .form-control {
 	background-color: transparent;
 	border-color: #e4ebe8;
-	color: #7a998c;
+	color: #e4e1e1;
 }
+
+.ds textarea{
+	color: #000;
+	background-color: #401f00;
+	/* opacity: 0.1; */
+}
+/* .ds textarea{
+	background-color: rgb(199, 142, 78);
+	opacity: 0.1;
+} */
 
 .ds .form-group-select:before {
 	border-color: #7a998c;
@@ -11084,7 +11102,7 @@ body.boxed {
 }
 
 .ds .widget_price_filter .price_label {
-	color: #fff;
+	color: #c3c3c3;
 }
 
 .ds #calendar_wrap {
@@ -11369,7 +11387,7 @@ body.boxed {
 .cs .form-control {
 	background-color: #fff;
 	border-color: #fff;
-	color: #073220;
+	color: #ffd9b0;
 }
 
 .cs .form-control:focus {
@@ -11891,7 +11909,7 @@ body.boxed {
 .response,
 .color-main {
 	border-color: #07a763;
-	color: #07a763;
+	/* color: #07a763; */
 }
 
 .color-main2 {
@@ -18945,6 +18963,11 @@ aside > * + * {
 	position: relative;
 }
 
+.ds textarea {
+	color: #000;
+    background-color: #401f00;
+    opacity: 0.7;
+}
 .widget > h3,
 .widget .widget-title {
 	font-size: 30px;
@@ -24116,6 +24139,7 @@ body.active-side-header.slide-right .page_header_side {
 	top: 0;
 }
 
+
 .page_slider .mouse_down {
 	bottom: 0;
 	left: 50%;
@@ -26838,7 +26862,8 @@ img.absolute_image {
 
 .portfolio .vertical-item.content-absolute .item-content {
 	align-items: center;
-	background: rgba(7, 50, 45, 0.9);
+	background: #401f00;
+	opacity: 0.4;
 	bottom: 0;
 	display: flex;
 	flex-direction: column;

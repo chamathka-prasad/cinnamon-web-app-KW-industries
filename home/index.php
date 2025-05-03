@@ -866,15 +866,15 @@
   				<div class="cinnamon-container" id="cinnamon-container"></div>
 					<section class="page_slider">
 						<div class="mouse_down">
-							<a href="#about"><img src="../home/assets/mouse.png"></a>
-							<svg width="320" height="45" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+							<!-- <a href="#about"><img src="../home/assets/mouse.png"></a> -->
+							<!-- <svg width="320" height="45" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
 								<g>
 									<title>Layer 1</title>
 									<g stroke="null" transform="translate(0,41) scale(0.10000000149011612,-0.10000000149011612) " fill="#000000" id="svg_1">
 										<path stroke="null" d="m1473.10742,340.22054c-80.80281,-29.99595 -133.2782,-69.99055 -259.12626,-198.97314c-125.84807,-128.98259 -190.39744,-170.97692 -286.52491,-184.97503c-28.32742,-4.99933 271.66462,-7.99891 666.39101,-7.99891c394.72638,0 695.64718,2.99959 668.71292,6.99905c-98.4494,14.99798 -159.74809,53.99271 -290.23998,186.97476c-132.34943,134.98178 -177.39467,168.97719 -260.05503,197.97328c-51.54662,17.99757 -189.93304,17.99757 -239.15775,0l0,-0.00001z" id="svg_2" />
 									</g>
 								</g>
-							</svg>
+							</svg> -->
 						</div>
 						<div class="flexslider">
 							<ul class="slides">
@@ -919,7 +919,7 @@
 
 
 								</li>
-								<li class="ds cover-image s-overlay text-left">
+								<li class="ds cover-image s-overlay text-left ">
 									<video 
 										class="slider-video"
 										src="../home/assets/cinnamon-powder-falling.mp4"
@@ -1002,9 +1002,9 @@
 			</div>
 
 			<!-- PANAGOLISH-->
-			<section class="ls  s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-140 s-pb-lg-120 s-pb-md-80 s-pb-50 text-center text-sm-left">
-				<div class="container">
-					<div class="row c-gutter-0">
+			<section class="ls  s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-140 s-pb-lg-120 s-pb-md-80 s-pb-50 text-center text-sm-left ">
+				<div class="container ">
+					<div class="row c-gutter-0 ">
 						<div class="col-12">
 							<h6 class="special-heading sub-title text-center"><span>KW production</span></h6>
 							<h2 class="special-heading text-center">Popular Products</h2>
@@ -1023,21 +1023,21 @@
 							<div class="slider-container">
 								<div class="slider">
 									<div class="slide active">
-										<img src="../home/assets/Cinnamon-Stick-2.webp." alt="Slide 1">
+										<img src="../home/assets/alba.png" alt="Slide 1">
 										<div class="slide-content">
 											<h2>"Panagolish" True Cinnamon Sticks,also known as "Cinnamon Bales".</h2>
 									
 										</div>
 									</div>
 									<div class="slide next">
-										<img src="../home/assets/cinnamon.jpeg" alt="Slide 2">
+										<img src="../home/assets/c5.png" alt="Slide 2">
 										<div class="slide-content">
 											<h2>Bundled sticks of pure Ceylon cinnamon, straight from Sri Lanka.</h2>
 											
 										</div>
 									</div>
 									<div class="slide">
-										<img src="../home/assets/cinnamon-meta.jpg" alt="Slide 3">
+										<img src="../home/assets/c4.png" alt="Slide 3">
 										<div class="slide-content">
 											<h2>Each bale Ensures high quality and natural purity</h2>
 											
@@ -1067,6 +1067,7 @@
 						<h2 class="special-heading">History About Factory</h2><br><br>
 						<p class="smallp">We are KW Industries - From the Island of Cinnamon - Sri Lanka.</p>
 						<p class="longp">
+						<b>Sri Lankan true cinnamon</b>, also called Ceylon cinnamon, is the real kind of cinnamon. It <b>comes only from Sri Lanka</b>, has a <b>sweet, soft taste</b>, and is <b>better and safer</b> than the common kind (called Cassia). People like it for <b>health and cooking</b> because it's uniqueness and significance in the world of medicine and food science.
 						The story of <i>Panagolish</i> begins with the island’s rich cinnamon history. For centuries, Sri 
 						Lanka has been the home of the world’s finest cinnamon, treasured for its aroma, 
 						health benefits, and natural purity. 
@@ -1077,15 +1078,15 @@
 						</div>
 					</div>
 					<div class="about-right">
-						<div class="about-image-wrapper" id="about-video-wrapper">
-							<img src="../home/assets/cinnamon.jpeg" alt="Cinnamon rolls">
-						<div class="play-icon" id="play-icon"></div>
+						<div class="about-image-wrapper" >
+							<img src="../home/assets/about.jpg" alt="Cinnamon rolls">
+						<!-- <div class="play-icon" id="play-icon"></div> -->
 						</div>
 					</div>
 				</div>
 			</section>
 
-			<script>
+			<!-- <script>
 				document.addEventListener('DOMContentLoaded', function() {
 					var playIcon = document.getElementById('play-icon');
 					playIcon.addEventListener('click', function() {
@@ -1098,9 +1099,9 @@
 					`;
 					});
     			});
-  			</script>
+  			</script> -->
 
-<section class="ls section-portfolio s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-150 s-pb-lg-130 s-pb-md-90 s-pb-60 text-center text-sm-left">
+			<section class="ls section-portfolio s-pt-xl-140 s-pt-lg-120 s-pt-md-80 s-pt-50 s-pb-xl-150 s-pb-lg-130 s-pb-md-90 s-pb-60 text-center text-sm-left" id="gal">
 				<div class="container">
 					<div class="row">
 						<div class="col-12">
@@ -1119,7 +1120,7 @@
 								<div class="item-content">
 
 									<div class="icons-link">
-										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal-1.jpg"><i class="fa fa-search-plus"></i></a>
+										<a class="link-zoom photoswipe-link" title="" href="../home/assets/gal1.jpg"><i class="fa fa-search-plus"></i></a>
 									</div>
 								</div>
 							</div>
@@ -1315,7 +1316,6 @@
 							<button class="view-btn"><a href ="../product/shop-left.php">View</a>  </button> -->
 						</div>
 						
-						
 						<div class="grid-item">
 							<div class="card-label">C5 SPECIAL</div>
 							<div class="image-container">
@@ -1370,6 +1370,7 @@
 						</div>
 						
 					</div>
+					
 				</div>
 				
 

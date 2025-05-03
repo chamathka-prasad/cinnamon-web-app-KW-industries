@@ -69,5 +69,8 @@ document.addEventListener('DOMContentLoaded', function() {
             updateSlides();
         });
     });
+
+    
+      
 });
 
