@@ -624,7 +624,7 @@ ul.list-styled li:before {
 }
 
 .breadcrumb > .active {
-	color: #07a763;
+	color: #cc741b;
 	font-weight: 700;
 	opacity: 0.9;
 }
@@ -723,15 +723,13 @@ select,
 	border-bottom: 1px solid #e4ebe8;
 	border-radius: 0;
 	box-shadow: none;
-	color: #ffffff;
+	color: #7a998c;
 	font-size: 16px;
 	font-weight: 400;
 	line-height: 30px;
 	padding: 0 0 1px 1px;
 	width: 100%;
 }
-
-
 
 input[disabled] {
 	cursor: not-allowed;
@@ -9332,6 +9330,9 @@ img {
 	background-attachment: fixed;
 	background-position: 50% 0;
 }
+.s-blur{
+	background-color: #401f00;
+}
 
 @media (max-width: 767px) {
 	.s-parallax {
@@ -10186,7 +10187,7 @@ body.boxed {
 }
 
 .btn-maincolor {
-	background-color: #07a763;
+	background-color: #401f00;
 }
 
 .btn-maincolor2 {
@@ -10396,7 +10397,7 @@ body.boxed {
 */
 .ls {
 	background-color: #fff;
-	color: #401f00;
+	color: #7a998c;
 }
 
 .ls h1,
@@ -10405,7 +10406,7 @@ body.boxed {
 .ls h4,
 .ls h5,
 .ls h6 {
-	color: #073220;
+	color: #aa5600;
 }
 
 .ls h1 a,
@@ -10914,11 +10915,7 @@ body.boxed {
 
 .ds a.bg-icon {
 	background-color: #fff;
-	color: #401f00;
-}
-.ds a.bg-icon :hover{
-	background-color: #401f00;
-	color: #fff;
+	color: #07322d;
 }
 
 .ds .fa.color-icon:hover {
@@ -10941,8 +10938,6 @@ body.boxed {
 	/* shop */
 }
 
-
-
 .ds .list-bordered li {
 	border-color: #7a998c;
 }
@@ -10959,18 +10954,8 @@ body.boxed {
 .ds .form-control {
 	background-color: transparent;
 	border-color: #e4ebe8;
-	color: #e4e1e1;
+	color: #7a998c;
 }
-
-.ds textarea{
-	color: #000;
-	background-color: #401f00;
-	/* opacity: 0.1; */
-}
-/* .ds textarea{
-	background-color: rgb(199, 142, 78);
-	opacity: 0.1;
-} */
 
 .ds .form-group-select:before {
 	border-color: #7a998c;
@@ -11051,7 +11036,7 @@ body.boxed {
 .ds .widget_product_search [type="submit"],
 .ds .widget_mailchimp .form-inline .btn {
 	background-color: transparent;
-	color: #7e9957;
+	color: #07a763;
 	
 }
 
@@ -11102,7 +11087,7 @@ body.boxed {
 }
 
 .ds .widget_price_filter .price_label {
-	color: #c3c3c3;
+	color: #fff;
 }
 
 .ds #calendar_wrap {
@@ -11387,7 +11372,7 @@ body.boxed {
 .cs .form-control {
 	background-color: #fff;
 	border-color: #fff;
-	color: #ffd9b0;
+	color: #073220;
 }
 
 .cs .form-control:focus {
@@ -11909,7 +11894,7 @@ body.boxed {
 .response,
 .color-main {
 	border-color: #07a763;
-	/* color: #07a763; */
+	color: #07a763;
 }
 
 .color-main2 {
@@ -11933,8 +11918,8 @@ body.boxed {
 }
 
 .color-darkgrey {
-	border-color: #073220;
-	color: #073220;
+	
+	color: #401f00;
 }
 
 .color-success {
@@ -18963,11 +18948,6 @@ aside > * + * {
 	position: relative;
 }
 
-.ds textarea {
-	color: #000;
-    background-color: #401f00;
-    opacity: 0.7;
-}
 .widget > h3,
 .widget .widget-title {
 	font-size: 30px;
@@ -23667,11 +23647,12 @@ a.logo img {
 
 a.logo .logo-text {
 	font-family: "Playfair Display", serif;
-	font-size: 30px;
+	font-size: 28px;
 	font-weight: 700;
 	line-height: 1.1;
 	text-indent: 12px;
 	text-transform: uppercase;
+	
 }
 
 @media (max-width: 575px) {
@@ -23681,10 +23662,10 @@ a.logo .logo-text {
 }
 
 a.logo .logo-subtext {
-	color: #7a998c;
+	color: white;
 	font-size: 11px;
 	font-weight: 700;
-	letter-spacing: 22px;
+	letter-spacing: 17px;
 	padding: 0 10px;
 	text-transform: uppercase;
 }
@@ -24138,7 +24119,6 @@ body.active-side-header.slide-right .page_header_side {
 	right: 0;
 	top: 0;
 }
-
 
 .page_slider .mouse_down {
 	bottom: 0;
@@ -26143,7 +26123,6 @@ img.absolute_image {
 }
 
 .page_title .s-blur {
-	background-image: url("../img/parallax/title.jpg");
 	bottom: 0;
 	-webkit-filter: blur(10px);
 	filter: blur(10px);
@@ -26400,7 +26379,8 @@ img.absolute_image {
 }
 
 .section-about {
-	background: url("../images/about_bg.jpg") no-repeat center/cover;
+	background: url("../images/cinnamon2.jpg") no-repeat center/cover;
+	
 }
 
 @media (max-width: 991px) {
@@ -26418,7 +26398,7 @@ img.absolute_image {
 }
 
 .faq-contact {
-	background: url("../images/fq_bg.jpg") no-repeat center/cover;
+	background-color: #1f4b27 ;
 }
 
 .testimonials-section {
@@ -26862,8 +26842,7 @@ img.absolute_image {
 
 .portfolio .vertical-item.content-absolute .item-content {
 	align-items: center;
-	background: #401f00;
-	opacity: 0.4;
+	background: rgba(7, 50, 45, 0.9);
 	bottom: 0;
 	display: flex;
 	flex-direction: column;

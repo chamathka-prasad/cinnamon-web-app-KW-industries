@@ -1005,7 +1005,7 @@
                     prevText: "",
                     nextText: "",
                     smoothHeight: false,
-                    slideshowSpeed: 5000,
+                    slideshowSpeed: 500,
                     animationSpeed: 800,
                 })
             });
