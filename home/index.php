@@ -1289,7 +1289,7 @@
 		
 			</section>
 	
-			<br><br><br>
+			
 			<div class="container-grade">
 				<h1>Cinnamon Grades</h1>
 				<p> We export 5 types of Cinnamon grades and  we are planning to expand our product range with bottled cinnamon items 
